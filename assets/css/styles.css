@@ -31,7 +31,6 @@ body {
     list-style: none;
     font-family: 'poppins', sans-serif;
     font-size: 1.3rem;
-    font-weight: 100;
 }
 .nav-list a:hover {
     color: rgb(172,188,195);
@@ -68,18 +67,15 @@ body {
     font-family: 'prompt', sans-serif;
     letter-spacing: 0.2rem;
     text-align: center;
-
     width: 15rem;
     height: 15rem;
     border-radius: 50%;
     padding: 1rem;
-    
     background-color: rgb(172, 188, 195, 0.8);
     bottom: 0.6rem;
     grid-column: 1;
     grid-row: 1;
     align-self: end;    
-    
 }
 /*button to get cooking*/
 .button-container {
@@ -130,5 +126,64 @@ body {
 .fab {
     margin: 0;
 }
-
-
+/*Media queries */
+/*For larger screens from 1425px wide and down*/
+@media screen and (max-width: 1425px) {
+    #cook-image {
+        background: url('../images/hero-mother-and-child2.png') no-repeat center center;
+    }
+}
+/*For medium screens from 1000px wide and down*/
+@media screen and (max-width: 1000px) {
+    #cook-image {
+        background: url('../images/mother-and-child-rolling-pin-small.png') no-repeat center center;
+        height: 25rem;
+    }
+}
+/*For screens from 600px wide and down*/
+@media screen and (max-width: 600px) {
+    .nav-list a{
+        font-size: 1rem;
+    }
+    .list-item {
+        font-size: 1.8rem;
+        padding: 0 3rem;        
+}
+#overlap h3 {
+    font-size: 1.5rem;
+}
+#overlap p {
+    font-size: 1rem;
+   }
+#overlap h4 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+}
+#overlap {
+    width: 12rem;
+    height: 12rem;  
+}
+}
+/*For small screens from 450px wide and down*/
+@media screen and (max-width: 450px) {
+    .nav-list a{
+        font-size: 0.8rem;
+    }
+    .list-item {
+        font-size: 1.4rem;
+        padding: 0 2rem;        
+}
+#overlap {
+    display: none;
+}
+#cook-image {
+    background: url('../images/mother-and-child-mixing-small.png') no-repeat center center;
+    height: 15rem;
+}
+}
+/*For smaller screens from 295px wide and down*/
+@media screen and (max-width: 295px) {
+    .list-item {
+        padding: 0 1rem;
+    }
+}    
