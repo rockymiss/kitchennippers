@@ -28,5 +28,11 @@ body {
     color: white;
     list-style: none;
 }
-
-
+/*main image*/
+#image-container{
+    margin-bottom: 1rem;
+    position: relative;
+    overflow: hidden;
+    justify-content: center;
+    margin: 1rem;
+}
