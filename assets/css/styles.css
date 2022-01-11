@@ -73,8 +73,8 @@ body {
     padding: 1rem;
     padding-bottom: 0;
     background-color: rgb(172, 188, 195, 0.8);
-    bottom: 1.8rem;
-    right: 8rem;
+    bottom: 0.6rem;
+    right: 17.5rem;
     position: absolute;
 }
 /*button to get cooking*/
@@ -126,3 +126,4 @@ body {
 .fab {
     margin: 0;
 }
+/*Media queries for screen sizes from 
