@@ -27,6 +27,12 @@ body {
     text-decoration: none;
     color: white;
     list-style: none;
+    font-family: 'prompt', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 100;
+}
+.nav-list a:hover {
+    color: rgb(172,188,195);
 }
 /*main image*/
 #image-container{
