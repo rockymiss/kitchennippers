@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Prompt&display=swap');
 /*general style*/
 * { 
     padding: 0;
@@ -12,6 +12,8 @@ body {
 .logo {
     padding: 1rem;
     text-align: center;
+    height: 14em;
+    overflow: hidden;
 }
 /*navigation links*/
 .nav-list{
@@ -27,7 +29,7 @@ body {
     text-decoration: none;
     color: white;
     list-style: none;
-    font-family: 'prompt', sans-serif;
+    font-family: 'poppins', sans-serif;
     font-size: 1.3rem;
     font-weight: 100;
 }
