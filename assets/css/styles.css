@@ -96,12 +96,20 @@ body {
 /*Footer - Social Media Links*/
 .social-media {
     background-color: rgb(22, 57, 80);
-   
+    display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 1rem;
 }
-
-.social-media > li {
-    display: flex;
+.list-item {
+    list-style: none;
+    text-decoration: none;
+    font-size: 3rem;
+    padding: 0 4rem;
+}
+.list-item a {
+    color: white;
+}
+.list-item a:hover {
+    color: rgb(172,188,195);
 }
