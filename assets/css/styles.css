@@ -36,6 +36,10 @@ body {
     position: relative;
     margin: 1rem 0;
 }
+#cook-image {
+    width: 100%;
+    text-align: center;
+    }
 #overlap, #overlap h2{
     color: white;
 }
@@ -49,10 +53,6 @@ body {
     font-size: 2.5rem;
     line-height: 3rem;
 }
-#cook-image {
-    width: 100%;
-    text-align: center;
-    }
 #overlap {
     font-size: 1.5rem;
     font-family: 'prompt', sans-serif;
