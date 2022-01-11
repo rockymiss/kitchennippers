@@ -69,3 +69,27 @@ body {
     right: 8rem;
     position: absolute;
 }
+/*button to get cooking*/
+.button-container {
+    display: flex;
+    justify-content: space-around;
+}
+.button {
+    padding: 0;
+    border: none;
+    outline: none;
+    border-radius: 0.3rem;
+    overflow: hidden;
+    background: rgb(22, 57, 80);
+    font-family: 'prompt', sans-serif;
+}
+.button-text a {
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    padding: 1rem;
+    height: 100%;
+}
+.button a:hover {
+    color: rgb(172,188,195); 
+}
