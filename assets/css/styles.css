@@ -112,12 +112,17 @@ body {
 .list-item {
     list-style: none;
     text-decoration: none;
-    font-size: 3rem;
+    font-size: 2.2rem;
     padding: 0 4rem;
 }
 .list-item a {
     color: white;
+    height: auto;
 }
 .list-item a:hover {
     color: rgb(172,188,195);
+}
+/*target social media images directly*/
+.fab {
+    margin: 0;
 }
