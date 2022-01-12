@@ -15,6 +15,9 @@ body {
     height: 14em;
     overflow: hidden;
 }
+.active {
+    text-shadow: 0 0 0.6rem #fff;
+}
 /*navigation links*/
 #nav-area {
     width: 100%;
