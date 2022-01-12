@@ -6,7 +6,7 @@
     border: none;
 }
 body {
-    font-family: 'prompt', sans-serif;
+    font-family: 'poppins', sans-serif;
 }
 /*header logo*/
 .logo {
@@ -91,7 +91,7 @@ body {
     width: 80%;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 16rem 16rem;
-    font-family: 'poppins', sans-serif;
+    
     color:rgb(22, 57, 80);
     font-size: 1.4rem;
     padding: 1.5rem;
@@ -216,8 +216,8 @@ body {
     .about-image {
         width: 6em;
         height: 6em;
-        overflow: hidden;
-        object-fit: scale-down;
+        
+        padding: 0;
     }
     .about-text {
         padding: 0.5em;
