@@ -85,13 +85,11 @@ body {
     align-self: end;    
 }
 /*about us section */
-
 .about-container {
     display: grid;
     width: 80%;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 16rem 16rem;
-    
     color:rgb(22, 57, 80);
     font-size: 1.4rem;
     padding: 1.5rem;
