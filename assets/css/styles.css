@@ -204,6 +204,16 @@ section h2 {
     font-family: inherit;
     font-size: 1.3em;
 }
+/*Thank you message*/
+.thank-you-message {
+    width: 70%;
+    padding: 8em;
+    text-align: center;
+    font-size: 1.5em;
+}
+.thank-you-message div {
+    text-align: center;
+}
 
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
