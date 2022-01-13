@@ -171,7 +171,7 @@ section h2 {
     padding: 1em 0;
 }
 .form-inside {
-    background-color: white;
+    background: white;
     border-radius: 2em;
     padding: 1em;
     
@@ -192,6 +192,19 @@ section h2 {
      padding: 1em;
      flex: 3;
 }
+.submit-button {
+    text-align: center;
+}
+
+.submit-inside {
+    color: white;
+    background-color: rgb(22, 57, 80);
+    padding: 0.5em 3em;
+    border-radius: 2em;
+    font-family: inherit;
+    font-size: 1.3em;
+}
+
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
