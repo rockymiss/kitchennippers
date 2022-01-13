@@ -158,8 +158,15 @@ body {
 .fab {
     margin: 0;
 }
+/*Recipe Page*/
+.date-container {
+    display: flex;
+    color: rgb(22, 57, 80);
+    justify-content: flex-end;
+    padding-right: 4rem;
+    font-size: 0.4rem;
+}
 /*Form Sign-up Page*/
-
 .signup-form {
     background-color: rgba(172, 188, 195, 0.26);
     padding: 1em;
