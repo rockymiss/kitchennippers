@@ -14,7 +14,8 @@ body {
     text-align: center;
     height: 14em;
     overflow: hidden;
-    background: url('/assets/images/kitchen-nippers-logo.png') no-repeat center center;
+    background: url('../images/kitchen-nippers-logo.png') no-repeat center center;
+    
 }
 .active {
     text-shadow: 0 0 0.6rem #fff;
@@ -22,6 +23,7 @@ body {
 /*navigation links*/
 #nav-area {
     width: 100%;
+   
    
 }
 .nav-list{
@@ -51,7 +53,7 @@ body {
 #cook-image {
     height: 34rem;
         width: 100%;
-        background: url('../images/hero-parent-and-child-prep.png') no-repeat center center;
+        background: url('../images/parent-child-3.png') no-repeat center center;
         margin-left: auto;
         margin-top: 0;
         grid-column: 1;
@@ -219,12 +221,12 @@ section h2 {
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
     #cook-image {
-        background: url('../images/hero-mother-and-child2.png') no-repeat center center;
+        background: url('../images/parent-child-2.png') no-repeat center center;
     }
 /*For medium to small screens from 1060px wide and down*/
 @media screen and (max-width: 1060px) {
     #cook-image {
-        background: url('../images/woman-and-girl-mixing1060.png') no-repeat center center;
+        background: url('../images/parent-child-pour.png') no-repeat center center;
     }
     .about-container {
         grid-template-columns: 1fr ;
@@ -237,7 +239,7 @@ section h2 {
         padding: 0 2rem;  
     }
     #cook-image {
-        background: url('../images/mother-and-child-rolling-pin-small.png')no-repeat center center;
+        background: url('../images/parent-child-rolling-small.png')no-repeat center center;
         height: 24em;
     }
 }
@@ -251,7 +253,7 @@ section h2 {
         font-size: 1.6rem;  
     }
     #cook-image {
-        background: url('../images/mother-and-child-mixing-small.png')no-repeat center center;
+        background: url('../images/parent-child-mix-smaller.png')no-repeat center center;
         height: 15em;
     }
     .nav-list a{
