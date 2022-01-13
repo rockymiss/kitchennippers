@@ -14,6 +14,7 @@ body {
     text-align: center;
     height: 14em;
     overflow: hidden;
+    background: url('/assets/images/kitchen-nippers-logo.png') no-repeat center center;
 }
 .active {
     text-shadow: 0 0 0.6rem #fff;
