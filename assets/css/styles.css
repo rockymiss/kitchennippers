@@ -156,6 +156,10 @@ body {
 .fab {
     margin: 0;
 }
+/*Form Sign-up Page*/
+.form-section {
+    display: flex;
+}
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
