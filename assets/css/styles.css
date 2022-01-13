@@ -212,7 +212,8 @@ section h2 {
     width: 70%;
     padding: 8em;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.3em;
+    display: inline;
 }
 .thank-you-message div {
     text-align: center;
@@ -295,9 +296,7 @@ section h2 {
     .signup-form {
         width: auto;
     }
-    }
-    
-} 
+}
 /*For small screens from 320px wide and down*/
 @media screen and (max-width: 320px) {
     .nav-list a{
