@@ -41,15 +41,26 @@
     </nav>
     <!--navigation end-->
     <!--Form Start-->
-    <section class="form-section">
+    <section>
         <form class="signup-form" method="POST" action="#"> 
-            <h2>Sign-up to our Monthly Newsletter</h2>
-            <label for="fname">First Name</label>
-            <input id="fname" class="form-text-input" name="first_name" type="text" required> 
-            <label for="lname">Last Name</label>
-            <input id="lname" class="form-text-input" name="last_name" type="text" required> 
-            <label for="email">Email Address</label>
-            <input id="email" class="form-text-input" name="email_address" type="email" required>
+            <h2 class ="heading-form">Sign-up to our Monthly Newsletter</h2>
+                <div class="form-inside">
+                    <div class="form-row">
+                    <label for="fname">First Name: </label>
+                    <input id="fname" class="form-text-input" name="first_name" type="text" required> 
+                    </div>
+
+                    <div class="form-row">
+                    <label for="lname">Last Name: </label>
+                    <input id="lname" class="form-text-input" name="last_name" type="text" required> 
+                    </div>
+
+                    <div class="form-row">
+                    <label for="email">Email Address: </label>
+                    <input id="email" class="form-text-input" name="email_address" type="email" required>
+                    </div>
+                    
+                </div>
         </form>
     </section>
     <!--Form end-->  

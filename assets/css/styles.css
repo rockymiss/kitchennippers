@@ -157,8 +157,40 @@ body {
     margin: 0;
 }
 /*Form Sign-up Page*/
-.form-section {
+
+section {
+    background-color: rgba(172, 188, 195, 0.26);
+    padding: 1em;
+    margin: auto;
+    width: 70%;
+    border-radius: 2em;
+    color:rgb(22, 57, 80);
+}
+section h2 {
+    text-align: center;
+    padding: 1em 0;
+}
+.form-inside {
+    background-color: white;
+    border-radius: 2em;
+    padding: 1em;
+    
+}
+.form-row {
+    padding: 1em;
+    border-radius: 2em;
     display: flex;
+    align-items: center;
+    
+}
+.form-row label {
+    flex: 1;
+}
+.form-text-input {
+     border: 1px solid rgba(22, 57, 80, 0.349);
+     border-radius: 2em;
+     padding: 1em;
+     flex: 3;
 }
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
