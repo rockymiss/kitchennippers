@@ -160,11 +160,11 @@ body {
 }
 /*Form Sign-up Page*/
 
-section {
+.signup-form {
     background-color: rgba(172, 188, 195, 0.26);
     padding: 1em;
     margin: auto;
-    width: 70%;
+    width: 60%;
     border-radius: 2em;
     color:rgb(22, 57, 80);
 }
@@ -176,28 +176,29 @@ section h2 {
     background: white;
     border-radius: 2em;
     padding: 1em;
-    
 }
 .form-row {
     padding: 1em;
     border-radius: 2em;
     display: flex;
     align-items: center;
-    
+    flex-wrap: wrap;
 }
 .form-row label {
+    width: auto;
     flex: 1;
+    padding-right: 1em;
 }
 .form-text-input {
      border: 1px solid rgba(22, 57, 80, 0.349);
-     border-radius: 2em;
+     border-radius: 1em;
      padding: 1em;
-     flex: 3;
+     flex: 3.5;
 }
 .submit-button {
     text-align: center;
+    padding: 1em;
 }
-
 .submit-inside {
     color: white;
     background-color: rgb(22, 57, 80);
@@ -274,6 +275,28 @@ section h2 {
         font-size: 0.8rem;
         text-align: center;
     }
+} 
+/*For small screens from 370px wide and down*/
+@media screen and (max-width: 370px) {
+    .footer-list-item {
+        padding: 0 1.5rem;
+    }
+    .form-row label {
+        font-size: 1rem;
+    }
+    .form-inside {
+        padding: 0;
+    }
+    
+    .submit-inside {
+        padding: 0.5em 2em;
+        font-size: 1.1em;
+    }
+    .signup-form {
+        width: auto;
+    }
+    }
+    
 } 
 /*For small screens from 320px wide and down*/
 @media screen and (max-width: 320px) {

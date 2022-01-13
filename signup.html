@@ -38,7 +38,7 @@
         </ul>
     </nav>
     <!--navigation end-->
-    <!--Form Start-->
+    <!--Form Start, rather than using method POST the form uses GET and opens a thank you page to let the user know it has been submitted-->
     <section>
         <form class="signup-form" method="GET" action="./thank-you.html"> 
             <h2 class ="heading-form">Sign-up to our Monthly Newsletter</h2>
@@ -57,11 +57,12 @@
                     <label for="email">Email Address: </label>
                     <input id="email" class="form-text-input" name="email_address" type="email" required>
                     </div>
+                </div>
                     <div class="submit-button">
                     <input class="submit-inside" type="submit" value="Sign-up">
                     </div>
 
-                </div>
+                
         </form>
     </section>
     <!--Form end-->  
