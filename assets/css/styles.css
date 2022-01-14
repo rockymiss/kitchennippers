@@ -8,6 +8,7 @@
 body {
     font-family: 'poppins', sans-serif;
     font-size: 1.2rem;
+    color:rgb(22, 57, 80);
 }
 /*header logo*/
 .logo {
@@ -161,7 +162,6 @@ body {
     margin: 0;
 }
 /*Recipe Page*/
-
 .recipe-heading-top {
     color:rgb(22, 57, 80);
     font-size: 1.5rem;
@@ -186,26 +186,31 @@ body {
     float: left;
     margin-right: 2em;
 }
-
 .about-recipe-text {
     display: inline;
     text-align: justify;
 }
-.seperator-logo { 
+.separator-logo { 
     background: url('../images/spoon-and-fork.png') no-repeat center center;
     height: 5em;    
 }
-.ingredient-container {
+.ingredients-container, .instructions-container {
     text-align: center;
     background: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
     width: 80%;
     margin: auto;
     padding: 1em 2em;
-
 }
-.ingredient-container li {
+.ingredients-list {
     list-style-type: none;
+    padding: 1em;
+}
+.instructions-container {
+    text-align: left;
+}
+.instructions-container h3 {
+    text-align: center;
 }
 
 
