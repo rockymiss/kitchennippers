@@ -104,6 +104,7 @@ body {
     row-gap: 1.5em;
     margin:auto;
     background-color: rgba(172, 188, 195, 0.26);
+    border-radius: 2em;
 }
 .about-text {
     padding: 1em;
@@ -180,15 +181,16 @@ body {
     padding: 1em 4em;
 }
 .about-recipe-image {
-    background-color: rgb(172,188,195);
-    width: 13em;
-    height: 13em;
+    width: 10em;
+    height: 10em;
     float: left;
     margin-right: 2em;
+    overflow: hidden;
 }
 .about-recipe-text {
     display: inline;
     text-align: justify;
+    padding-top: 1em;
 }
 .separator-logo { 
     background: url('../images/spoon-and-fork.png') no-repeat center center;
