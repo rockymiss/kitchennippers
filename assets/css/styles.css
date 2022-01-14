@@ -7,6 +7,7 @@
 }
 body {
     font-family: 'poppins', sans-serif;
+    font-size: 1.4rem;
 }
 /*header logo*/
 .logo {
@@ -165,7 +166,6 @@ body {
     color: rgb(22, 57, 80);
     justify-content: flex-end;
     padding-right: 4rem;
-    font-size: 0.4rem;
 }
 .about-recipe-image {
     background-color: rgb(172,188,195);
@@ -188,8 +188,12 @@ body {
 }
 .seperator-logo { 
     background: url('../images/spoon-and-fork.png') no-repeat center center;
-    height: 5em;
-    
+    height: 5em;    
+}
+.ingredients-container {
+    text-align: center;
+    font-size: 1.4rem;
+
 }
 /*Form Sign-up Page*/
 .signup-form {
