@@ -166,6 +166,12 @@ body {
     color: rgb(22, 57, 80);
     justify-content: flex-end;
     padding-right: 4rem;
+    font-size: 0.5rem;
+}
+.recipe-heading-top {
+    color:rgb(22, 57, 80);
+    font-size: 1.5rem;
+    text-align: center;
 }
 .about-recipe-image {
     background-color: rgb(172,188,195);
@@ -174,7 +180,7 @@ body {
     float: left;
     margin-right: 2em;
 }
-.about-recipe-text h2 {
+.recipe-heading {
     text-align: center;
 }
 .about-recipe-text {
@@ -193,8 +199,8 @@ body {
 .ingredients-container {
     text-align: center;
     font-size: 1.4rem;
-
 }
+
 /*Form Sign-up Page*/
 .signup-form {
     background-color: rgba(172, 188, 195, 0.26);
