@@ -161,45 +161,53 @@ body {
     margin: 0;
 }
 /*Recipe Page*/
-.date-container {
-    display: flex;
-    color: rgb(22, 57, 80);
-    justify-content: flex-end;
-    padding-right: 4rem;
-    font-size: 0.5rem;
-}
+
 .recipe-heading-top {
     color:rgb(22, 57, 80);
     font-size: 1.5rem;
     text-align: center;
 }
+.about-recipe-container {
+    background-color: rgba(172, 188, 195, 0.26);
+    width: 80%;
+    margin: auto;
+    border-radius: 2em;
+    padding: 1em 2em;
+}
+.about-recipe-container h1 {
+    font-size: 0.5rem;
+    text-align: right;
+    padding: 1em 4em;
+}
 .about-recipe-image {
     background-color: rgb(172,188,195);
-    width: 15.5em;
-    height: 15.5em;
+    width: 13em;
+    height: 13em;
     float: left;
     margin-right: 2em;
 }
-.recipe-heading {
-    text-align: center;
-}
+
 .about-recipe-text {
     display: inline;
     text-align: justify;
-}
-.about-recipe-container {
-    color: rgb(22,57,80);
-    margin: 1rem 3rem;
 }
 .seperator-logo { 
     background: url('../images/spoon-and-fork.png') no-repeat center center;
     height: 5em;    
 }
-.ingredient-list {
+.ingredient-container {
     text-align: center;
-    list-style: none;
-    padding: 0.5em;
+    background: rgba(172, 188, 195, 0.26);
+    border-radius: 2em;
+    width: 80%;
+    margin: auto;
+    padding: 1em 2em;
+
 }
+.ingredient-container li {
+    list-style-type: none;
+}
+
 
 /*Form Sign-up Page*/
 .signup-form {
