@@ -168,16 +168,19 @@ body {
     font-size: 0.4rem;
 }
 .about-recipe-image {
-    background-color: yellow;
-    width: 20rem;
-    height: 20rem;
+    background-color: rgb(172,188,195);
+    width: 15.5em;
+    height: 15.5em;
     float: left;
-    margin: 1rem 3rem;
+    margin-right: 2em;
+}
+.about-recipe-text h2 {
+    text-align: center;
 }
 .about-recipe-text {
     display: inline;
     text-align: justify;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
 }
 .about-recipe-container {
     color: rgb(22,57,80);
