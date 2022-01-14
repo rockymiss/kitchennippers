@@ -212,8 +212,14 @@ body {
 .instructions-container h3 {
     text-align: center;
 }
-
-
+.insta-video {
+    width: 80%;
+    margin: auto;
+    text-align: -webkit-center;
+    background:rgba(172, 188, 195, 0.26);
+    border-radius: 2em;
+    padding: 1em 2em;
+}
 /*Form Sign-up Page*/
 .signup-form {
     background-color: rgba(172, 188, 195, 0.26);
