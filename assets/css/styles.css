@@ -185,6 +185,10 @@ body {
 .about-recipe-container {
     color: rgb(22,57,80);
     margin: 1rem 3rem;
+}
+.seperator-logo { 
+    background: url('../images/spoon-and-fork.png') no-repeat center center;
+    height: 5em;
     
 }
 /*Form Sign-up Page*/
