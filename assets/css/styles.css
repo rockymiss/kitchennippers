@@ -167,7 +167,23 @@ body {
     padding-right: 4rem;
     font-size: 0.4rem;
 }
-
+.about-recipe-image {
+    background-color: yellow;
+    width: 20rem;
+    height: 20rem;
+    float: left;
+    margin: 1rem 3rem;
+}
+.about-recipe-text {
+    display: inline;
+    text-align: justify;
+    font-size: 1.8rem;
+}
+.about-recipe-container {
+    color: rgb(22,57,80);
+    margin: 1rem 3rem;
+    
+}
 /*Form Sign-up Page*/
 .signup-form {
     background-color: rgba(172, 188, 195, 0.26);
