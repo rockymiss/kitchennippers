@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Prompt&display=swap');
+
 /*general style*/
-* { 
+* {
     padding: 0;
     margin: 0;
     border: none;
@@ -8,7 +9,7 @@
 body {
     font-family: 'poppins', sans-serif;
     font-size: 1.2rem;
-    color:rgb(22, 57, 80);
+    color: rgb(22, 57, 80);
 }
 /*header logo*/
 .logo {
@@ -17,7 +18,7 @@ body {
     height: 14em;
     overflow: hidden;
     background: url('../images/kitchen-nippers-logo.png') no-repeat center center;
-    
+
 }
 .active {
     text-shadow: 0 0 0.6rem #fff;
@@ -25,19 +26,19 @@ body {
 /*navigation links*/
 #nav-area {
     width: 100%;
-   
-   
+
+
 }
-.nav-list{
+.nav-list {
     background-color: rgb(22, 57, 80);
     display: flex;
     justify-content: space-around;
-    margin-bottom: 1rem; 
+    margin-bottom: 1rem;
 }
 .nav-list li {
     list-style: none;
 }
-.nav-list a{
+.nav-list a {
     text-decoration: none;
     color: white;
     list-style: none;
@@ -45,23 +46,24 @@ body {
     font-size: 1.3rem;
 }
 .nav-list a:hover {
-    color: rgb(172,188,195);
+    color: rgb(172, 188, 195);
 }
 /*main image*/
-#image-container{
+#image-container {
     display: grid;
     grid-template-columns: 1fr;
 }
 #cook-image {
     height: 34rem;
-        width: 100%;
-        background: url('../images/parent-child-3.png') no-repeat center center;
-        margin-left: auto;
-        margin-top: 0;
-        grid-column: 1;
-        grid-row: 1;
+    width: 100%;
+    background: url('../images/parent-child-3.png') no-repeat center center;
+    margin-left: auto;
+    margin-top: 0;
+    grid-column: 1;
+    grid-row: 1;
 }
-#overlap, #overlap h2{
+#overlap,
+#overlap h2 {
     color: white;
 }
 #overlap h3 {
@@ -69,7 +71,7 @@ body {
 }
 #overlap p {
     font-size: 1rem;
-   }
+}
 #overlap h4 {
     font-size: 2.5rem;
     line-height: 3rem;
@@ -87,7 +89,7 @@ body {
     bottom: 0.6rem;
     grid-column: 1;
     grid-row: 1;
-    align-self: end;    
+    align-self: end;
 }
 /*about us section */
 .about-container {
@@ -95,14 +97,14 @@ body {
     width: 80%;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 16rem 16rem;
-    color:rgb(22, 57, 80);
+    color: rgb(22, 57, 80);
     font-size: 1.4rem;
     padding: 1.5rem;
     justify-items: center;
     align-self: center;
     column-gap: 1.5em;
     row-gap: 1.5em;
-    margin:auto;
+    margin: auto;
     background-color: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
 }
@@ -112,7 +114,7 @@ body {
     height: 14em;
     width: 14em;
     border-radius: 2em;
-    border:rgba(22, 57, 80, 0.336) solid 2px;
+    border: rgba(22, 57, 80, 0.336) solid 2px;
 }
 .about-image {
     padding: 0 1em;
@@ -129,7 +131,7 @@ body {
 .button-text {
     background-color: rgb(22, 57, 80);
     padding: 0.5em;
-    border-radius: 1em; 
+    border-radius: 1em;
 }
 .button-text a {
     text-decoration: none;
@@ -142,7 +144,7 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 1em;
-    
+
 }
 .footer-list-item {
     list-style: none;
@@ -156,7 +158,7 @@ body {
     height: auto;
 }
 .footer-list-item a:hover {
-    color: rgb(172,188,195);
+    color: rgb(172, 188, 195);
 }
 /*target social media images directly*/
 .fab {
@@ -171,12 +173,12 @@ body {
     padding: 1em 2em;
 }
 .about-recipe-container h1 {
-  font-size: 0.5rem;
-  padding: 1em 4em;
-  text-align: right;
+    font-size: 0.5rem;
+    padding: 1em 4em;
+    text-align: right;
 }
 .about-recipe-container h2 {
-    color:rgb(22, 57, 80);
+    color: rgb(22, 57, 80);
     font-size: 1.5rem;
     text-align: center;
 }
@@ -193,11 +195,12 @@ body {
     text-align: justify;
     padding-top: 1em;
 }
-.separator-logo { 
+.separator-logo {
     background: url('../images/spoon-and-fork.png') no-repeat center center;
-    height: 5em;    
+    height: 5em;
 }
-.ingredients-container, .instructions-container {
+.ingredients-container,
+.instructions-container {
     text-align: center;
     background: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
@@ -219,9 +222,9 @@ body {
     width: 80%;
     margin: auto;
     text-align: -webkit-center;
-    background:rgba(172, 188, 195, 0.26);
+    background: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
-    padding: 1em 2em;
+    padding: 0;
 }
 /*Form Sign-up Page*/
 .signup-form {
@@ -230,7 +233,7 @@ body {
     margin: auto;
     width: 60%;
     border-radius: 2em;
-    color:rgb(22, 57, 80);
+    color: rgb(22, 57, 80);
 }
 section h2 {
     text-align: center;
@@ -254,15 +257,17 @@ section h2 {
     padding-right: 1em;
 }
 .form-text-input {
-     border: 1px solid rgba(22, 57, 80, 0.349);
-     border-radius: 1em;
-     padding: 0.5em;
-     flex: 3.5;
+    border: 1px solid rgba(22, 57, 80, 0.349);
+    border-radius: 1em;
+    padding: 0.5em;
+    flex: 3.5;
 }
+
 .submit-button {
     text-align: center;
     padding: 1em;
 }
+
 .submit-inside {
     color: white;
     background-color: rgb(22, 57, 80);
@@ -271,6 +276,7 @@ section h2 {
     font-family: inherit;
     font-size: 1.3em;
 }
+
 /*Thank you message*/
 .thank-you-message {
     width: 70%;
@@ -279,9 +285,11 @@ section h2 {
     font-size: 1.3em;
     display: inline;
 }
+
 .thank-you-message div {
     text-align: center;
 }
+
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
@@ -289,94 +297,113 @@ section h2 {
         background: url('../images/parent-child-2.png') no-repeat center center;
     }
 }
+
 /*For medium to small screens from 1060px wide and down*/
 @media screen and (max-width: 1060px) {
     #cook-image {
         background: url('../images/parent-child-pour.png') no-repeat center center;
     }
+
     .about-container {
-        grid-template-columns: 1fr ;
+        grid-template-columns: 1fr;
         grid-template-rows: 16rem;
+    }
 }
-}
+
 /*For small screens from 590px wide and down*/
 @media screen and (max-width: 590px) {
     .footer-list-item {
-        padding: 0 2rem;  
+        padding: 0 2rem;
     }
+
     #cook-image {
         background: url('../images/parent-child-rolling-small.png')no-repeat center center;
         height: 24em;
     }
+
     #overlap {
-    display: none;
+        display: none;
     }
+
     /*recipe*/
     .about-recipe-container {
         display: flex;
         flex-direction: column;
     }
+
     .about-recipe-image {
         margin-right: 0;
         margin: auto;
     }
+
     body {
         font-size: 1rem;
     }
-    
 }
 /*For small screens from 420px wide and down*/
 @media screen and (max-width: 420px) {
     .footer-list-item {
-        font-size: 1.6rem;  
+        font-size: 1.6rem;
     }
+
     #cook-image {
         background: url('../images/parent-child-mix-smaller.png')no-repeat center center;
         height: 15em;
     }
-    .nav-list a{
+
+    .nav-list a {
         font-size: 1rem;
     }
+
     .about-container {
         row-gap: 0.5em;
         grid-template-rows: 11rem;
     }
+
     .about-image {
         width: 6em;
         height: 6em;
-        
+
         padding: 0;
     }
+
     .about-text {
         padding: 0.5em;
         font-size: 0.8rem;
         text-align: center;
     }
-} 
+}
+
 /*For small screens from 370px wide and down*/
 @media screen and (max-width: 370px) {
     .footer-list-item {
         padding: 0 1.5rem;
     }
+
     .form-row label {
         font-size: 1rem;
     }
+
     .form-inside {
         padding: 0;
     }
+
     .submit-inside {
         padding: 0.5em 2em;
         font-size: 1.1em;
     }
+
     .signup-form {
         width: auto;
     }
 }
+
 /*For small screens from 320px wide and down*/
 @media screen and (max-width: 320px) {
-    .nav-list a{
+    .nav-list a {
         font-size: 0.8rem;
     }
+
     .footer-list-item {
         font-size: 1.5rem;
         padding: 0 1rem;
