@@ -122,6 +122,10 @@ body {
     overflow: hidden;
     margin: auto;
 }
+#news-link {
+    text-decoration: none;
+    color: navy;
+}
 /*button to get cooking*/
 .button-container {
     display: flex;
