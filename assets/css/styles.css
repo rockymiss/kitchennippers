@@ -163,11 +163,6 @@ body {
     margin: 0;
 }
 /*Recipe Page*/
-.recipe-heading-top {
-    color:rgb(22, 57, 80);
-    font-size: 1.5rem;
-    text-align: center;
-}
 .about-recipe-container {
     background-color: rgba(172, 188, 195, 0.26);
     width: 80%;
@@ -176,9 +171,14 @@ body {
     padding: 1em 2em;
 }
 .about-recipe-container h1 {
-    font-size: 0.5rem;
-    text-align: right;
-    padding: 1em 4em;
+  font-size: 0.5rem;
+  padding: 1em 4em;
+  text-align: right;
+}
+.about-recipe-container h2 {
+    color:rgb(22, 57, 80);
+    font-size: 1.5rem;
+    text-align: center;
 }
 .about-recipe-image {
     width: 10em;
@@ -186,12 +186,15 @@ body {
     float: left;
     margin-right: 2em;
     overflow: hidden;
+    background: url('../images/flatbread-pan.png') no-repeat center center;
 }
 .about-recipe-text {
     display: inline;
     text-align: justify;
     padding-top: 1em;
 }
+
+
 .separator-logo { 
     background: url('../images/spoon-and-fork.png') no-repeat center center;
     height: 5em;    
@@ -288,6 +291,7 @@ section h2 {
     #cook-image {
         background: url('../images/parent-child-2.png') no-repeat center center;
     }
+}
 /*For medium to small screens from 1060px wide and down*/
 @media screen and (max-width: 1060px) {
     #cook-image {
@@ -307,10 +311,18 @@ section h2 {
         background: url('../images/parent-child-rolling-small.png')no-repeat center center;
         height: 24em;
     }
-}
-#overlap {
+    #overlap {
     display: none;
-}
+    }
+    /*recipe*/
+    .about-recipe-container {
+        display: flex;
+        flex-direction: column;
+    }
+    .about-recipe-image {
+        margin-right: 0;
+        margin: auto;
+    }
 }
 /*For small screens from 420px wide and down*/
 @media screen and (max-width: 420px) {
