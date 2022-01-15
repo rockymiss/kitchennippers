@@ -193,8 +193,6 @@ body {
     text-align: justify;
     padding-top: 1em;
 }
-
-
 .separator-logo { 
     background: url('../images/spoon-and-fork.png') no-repeat center center;
     height: 5em;    
@@ -258,7 +256,7 @@ section h2 {
 .form-text-input {
      border: 1px solid rgba(22, 57, 80, 0.349);
      border-radius: 1em;
-     padding: 1em;
+     padding: 0.5em;
      flex: 3.5;
 }
 .submit-button {
@@ -326,6 +324,7 @@ section h2 {
     body {
         font-size: 1rem;
     }
+    
 }
 /*For small screens from 420px wide and down*/
 @media screen and (max-width: 420px) {
@@ -366,7 +365,6 @@ section h2 {
     .form-inside {
         padding: 0;
     }
-    
     .submit-inside {
         padding: 0.5em 2em;
         font-size: 1.1em;
