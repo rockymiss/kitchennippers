@@ -1,16 +1,22 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![alt text](https://github.com/rockymiss/kitchennippers/blob/main/assets/images/kitchen-nippers-logo.png)
 
-Welcome rockymiss,
+# Kitchen Nippers
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers which teaches children and their adults how to cook together. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Please click [here](https://github.com/rockymiss/Kitchennippers) for link to the website 
 
-## Gitpod Reminders
+The Design has been focused to **Desktop** first and **Responsive**
+## Who is this website for and what does it do? 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This is a website for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them.  Kitchen Nippers is entirely online with a view to expanding in the future. 
 
-`python3 -m http.server`
+## User Experience
+### User Stories
+#### From a Parent's Perspective
+<ul>
+<li>As a parent user it is important that it is </li></ul>
+
 
 A blue button should appear to click: _Make Public_,
 
