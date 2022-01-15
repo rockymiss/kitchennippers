@@ -373,7 +373,6 @@ section h2 {
         text-align: center;
     } 
 }
-
 /*For small screens from 370px wide and down*/
 @media screen and (max-width: 370px) {
     .footer-list-item {
