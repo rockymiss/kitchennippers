@@ -323,6 +323,9 @@ section h2 {
         margin-right: 0;
         margin: auto;
     }
+    body {
+        font-size: 1rem;
+    }
 }
 /*For small screens from 420px wide and down*/
 @media screen and (max-width: 420px) {
