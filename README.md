@@ -11,11 +11,80 @@ The Design has been focused to **Desktop** first and **Responsive**
 
 This is a website for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them.  Kitchen Nippers is entirely online with a view to expanding in the future. 
 
+-----
+
 ## User Experience
-### User Stories
-#### From a Parent's Perspective
+### From a User's Perspective
+As a user it is important: 
 <ul>
-<li>As a parent user it is important that it is </li></ul>
+<li>that it is easy to navigate the site</li>
+<li>to learn an easy recipe to make with their child</li>
+<li>that the website doesn't require a lot of time to find what they want</li>
+<li>that the instructions are clear</li>
+<li>that everything that is needed is listed</li>
+<li>to find out more about the company and other recipes they may have</li></ul>
+
+### Users Fulfilment
+<ul>
+<li>In order to guide the user to what they want the navigation, footer and content are laid out in a clear way</li>
+<li>the user can find the recipe that is suited to a level for children or beginner adults learning how to cook. </li>
+<li>The recipe can be found on all pages through navigation links or buttons</li>
+<li>Clear instructions are laid out in the recipe page together with a video for assistance</li>
+<li>Everything including the cooking implements are included in the recipe section</li>
+<li>The user can sign up to a monthly newstletter which will give them access to past and future recipes and more tips to learn how to cook</li></ul>
+
+-----
+
+## UX 5 Planes 
+
+### Strategy Plane 
+### Scope Plane 
+### Structure Plane
+### Skeleton Plane
+### Surface Plane 
+
+-----
+
+## Features 
+-----
+
+### Existing Features 
+
+### Features for future implementation
+
+-----
+
+## Technologies Used 
+
+-----
+
+## Resources 
+
+-----
+
+## Testing
+
+-----
+
+### Browser Testing 
+
+### Validators 
+
+### Local Testing 
+
+### Responsiveness 
+
+#### Issues 
+
+-----
+
+## Version Control
+
+### Git & GitHub 
+
+### Deployment 
+
+
 
 
 A blue button should appear to click: _Make Public_,
