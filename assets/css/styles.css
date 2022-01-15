@@ -282,7 +282,6 @@ section h2 {
 .thank-you-message div {
     text-align: center;
 }
-
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
