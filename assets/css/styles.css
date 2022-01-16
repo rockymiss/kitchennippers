@@ -171,7 +171,7 @@ body {
 /*Recipe Page*/
 .about-recipe-container {
     background-color: rgba(172, 188, 195, 0.26);
-    width: 80%;
+    width: 60%;
     margin: auto;
     border-radius: 2em;
     padding: 1em 2em;
@@ -196,7 +196,7 @@ body {
 }
 .about-recipe-text {
     display: inline;
-    text-align: justify;
+    text-align: left;
     padding-top: 1em;
 }
 .separator-logo {
@@ -208,7 +208,7 @@ body {
     text-align: center;
     background: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
-    width: 80%;
+    width: 60%;
     margin: auto;
     padding: 1em 2em;
 }
@@ -223,7 +223,7 @@ body {
     text-align: center;
 }
 .insta-video-container {
-    width: 80%;
+    width: 60%;
     margin: auto;
     text-align: -webkit-center;
     background: rgba(172, 188, 195, 0.26);
@@ -328,18 +328,15 @@ section h2 {
     #overlap {
         display: none;
     }
-
     /*recipe*/
     .about-recipe-container {
         display: flex;
         flex-direction: column;
     }
-
     .about-recipe-image {
         margin-right: 0;
         margin: auto;
     }
-
     body {
         font-size: 1rem;
     }
@@ -349,28 +346,23 @@ section h2 {
     .footer-list-item {
         font-size: 1.6rem;
     }
-
     #cook-image {
         background: url('../images/parent-child-mix-smaller.png')no-repeat center center;
         height: 15em;
     }
-
     .nav-list a {
         font-size: 1rem;
     }
-
     .about-container {
         row-gap: 0.5em;
         grid-template-rows: 11rem;
     }
-
     .about-image {
         width: 6em;
         height: 6em;
 
         padding: 0;
     }
-
     .about-text {
         padding: 0.5em;
         font-size: 0.8rem;
@@ -382,31 +374,25 @@ section h2 {
     .footer-list-item {
         padding: 0 1.5rem;
     }
-
     .form-row label {
         font-size: 1rem;
     }
-
     .form-inside {
         padding: 0;
     }
-
     .submit-inside {
         padding: 0.5em 2em;
         font-size: 1.1em;
     }
-
     .signup-form {
         width: auto;
     }
 }
-
 /*For small screens from 320px wide and down*/
 @media screen and (max-width: 320px) {
     .nav-list a {
         font-size: 0.8rem;
     }
-
     .footer-list-item {
         font-size: 1.5rem;
         padding: 0 1rem;
