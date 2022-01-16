@@ -15,10 +15,10 @@ body {
 .logo {
     padding: 1rem;
     text-align: center;
-    height: 14em;
-    overflow: hidden;
+    height: 8em;
     background: url('../images/kitchen-nippers-logo.png') no-repeat center center;
-
+    width: 15em;
+    margin: auto;
 }
 .active {
     text-shadow: 0 0 0.6rem #fff;
@@ -54,7 +54,7 @@ body {
     grid-template-columns: 1fr;
 }
 #cook-image {
-    height: 34rem;
+    height: 30rem;
     width: 100%;
     background: url('../images/parent-child-3.png') no-repeat center center;
     margin-left: auto;
@@ -74,7 +74,7 @@ body {
 }
 #overlap h4 {
     font-size: 2.5rem;
-    line-height: 3rem;
+    line-height: 3.6rem;
 }
 #overlap {
     font-size: 1.5rem;
@@ -96,7 +96,7 @@ body {
     display: grid;
     width: 80%;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 16rem 16rem;
+    grid-template-rows: 16rem 19rem;
     color: rgb(22, 57, 80);
     font-size: 1.4rem;
     padding: 1.5rem;
@@ -111,7 +111,7 @@ body {
 .about-text {
     padding: 1em;
     font-size: 1rem;
-    height: 14em;
+    height: 15.5em;
     width: 14em;
     border-radius: 2em;
     border: rgba(22, 57, 80, 0.336) solid 2px;
