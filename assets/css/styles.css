@@ -265,6 +265,7 @@ section h2 {
     border-radius: 1em;
     padding: 0.5em;
     flex: 3.5;
+    width: 90%;
 }
 
 .submit-button {
