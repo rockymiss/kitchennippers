@@ -16,7 +16,7 @@ body {
     padding: 1rem;
     text-align: center;
     height: 8em;
-    background: url('../images/kitchen-nippers-logo.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png') no-repeat center center;
     width: 15em;
     margin: auto;
 }
@@ -56,7 +56,7 @@ body {
 #cook-image {
     height: 30rem;
     width: 100%;
-    background: url('../images/parent-child-3.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-3_ijv3qm.png') no-repeat center center;
     margin-left: auto;
     margin-top: 0;
     grid-column: 1;
@@ -192,7 +192,7 @@ body {
     float: left;
     margin-right: 2em;
     overflow: hidden;
-    background: url('../images/flatbread-pan.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/flatbread-pan_q6muiy.png') no-repeat center center;
 }
 .about-recipe-text {
     display: inline;
@@ -299,14 +299,14 @@ section h2 {
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
     #cook-image {
-        background: url('../images/parent-child-2.png') no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419807/kitchen-nippers/parent-child-2_xpeh4e.png') no-repeat center center;
     }
 }
 
 /*For medium to small screens from 1060px wide and down*/
 @media screen and (max-width: 1060px) {
     #cook-image {
-        background: url('../images/parent-child-pour.png') no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-pour_qd3fqy.png') no-repeat center center;
     }
 
     .about-container {
@@ -322,7 +322,7 @@ section h2 {
     }
 
     #cook-image {
-        background: url('../images/parent-child-rolling-small.png')no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419810/kitchen-nippers/parent-child-rolling-small_ani1sx.png')no-repeat center center;
         height: 24em;
     }
 
@@ -351,7 +351,7 @@ section h2 {
         font-size: 1.6rem;
     }
     #cook-image {
-        background: url('../images/parent-child-mix-smaller.png')no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-mix-smaller_wuwuby.png')no-repeat center center;
         height: 15em;
     }
     .nav-list a {
