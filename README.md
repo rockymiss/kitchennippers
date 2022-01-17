@@ -1,4 +1,8 @@
+<center>
+
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png)
+
+</center>
 
 # Kitchen Nippers
 
@@ -86,14 +90,21 @@ The website consists of 3 main pages and 1 thank you page.  Each page has a spec
 
 ### Skeleton Plane
 
-The design was focused to desktop first but can be used on smaller devices such as mobiles too.  Wireframes are done using balsamiq.  As seen below: 
+The design was focused to desktop first but can be used on smaller devices such as mobiles too.  Wireframes are done using balsamiq:  
 
+<center>Index</center> 
 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442463/kitchen-nippers/index.html_j7by7m.png)
 
+<center>Recipe</center> 
+
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/recipe.html_i3ndv6.png)
 
+<center>Sign-up</center> 
+
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/sign-up.html_jsbmb7.png)
+
+<center>thank-you</center> 
 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/thankyou.html_wucsey.png)
 
@@ -158,6 +169,7 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 - Google Fonts for font
 - Git for version control 
 - GibHub for keeping the files and documents and deployment of the website
+- Balsamiq to create wireframes
 
 -----
 
@@ -178,7 +190,8 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 - canva.com for logo
 - instagram.com - video on recipe page
 - Inshot Video Editor to create video on recipe page and instagram link
-    - the video was created by the creator (instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The original video has been lost so the the instagram code was embedded directly into the recipe page.  The instagram link on the footer will also link directly to the video. 
+    - the video was created by the creator (instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The original video has been lost so the the instagram code was embedded directly into the recipe page.  The instagram link on the footer will also link directly to the video 
+    TinyPNG - to compress all images
 
 -----
 
@@ -187,6 +200,8 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 -----
 
 ### Browser Testing
+
+The website has been tested in 
 
 
 

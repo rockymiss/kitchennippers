@@ -224,7 +224,6 @@ body {
 .insta-video-container {
     width: 60%;
     margin: auto;
-    text-align: -webkit-center;
     background: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
     padding: 0;
