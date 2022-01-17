@@ -78,7 +78,7 @@ The website consists of 3 main pages and 1 thank you page.  Each page has a spec
 
 - Recipe Page
 
-    The recipe page is clearly laid out with information about the recipe, clear ingredients and tools needed and clear instructions.  At the bottom of the page there is a video showing the user how to make the recipe.  The video can be either viewed directly on this page or a link to instagram to view it there.  
+    The recipe page is clearly laid out with information about the recipe, clear ingredients and tools needed and clear instructions.  At the bottom of the page there is a video showing the user how to make the recipe.  The video can be either viewed directly on this page or a link to YouTube and Instagram on the footer links.  
 
 - Sign-up Page 
 
@@ -188,10 +188,11 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
     - Drake Nicolls - bun tray and other tools image (index page)
     - Michael Burrows - bread in a frying pan (recipe page)
 - canva.com for logo
-- instagram.com - video on recipe page
-- Inshot Video Editor to create video on recipe page and instagram link
-    - the video was created by the creator (instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The original video has been lost so the the instagram code was embedded directly into the recipe page.  The instagram link on the footer will also link directly to the video 
-    TinyPNG - to compress all images
+- Youtube - video on recipe page
+- TinyPNG - to compress all images
+- Inshot Video Editor to create video on recipe page and YouTube video link
+    - the video was created by the creator (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.   
+
 
 -----
 
