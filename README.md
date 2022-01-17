@@ -94,19 +94,19 @@ The design was focused to desktop first but can be used on smaller devices such 
 
 The background of the entire website is white.
 
-For the navigation bar, footer and buttons the following are used: 
+For the navigation bar, the footer bar and buttons the following are used: 
 
-    - rgb(22, 57, 80) / Prussia Blue for the background
-    - rgb(255, 255, 255) / White for text
-    - rgb(172, 188, 195) / Pewter Blue for hover over text
-    - 0 0 0.6rem #fff text shadow to show the active page
+- rgb(22, 57, 80) / Prussia Blue for the background
+- rgb(255, 255, 255) / White for text
+- rgb(172, 188, 195) / Pewter Blue for hover over text
+- 0 0 0.6rem #fff text shadow to show the active page
 
 
 For the main body with text the following are used: 
 
-    - rgb(22, 57, 80) / Prussia Blue is the main body text color
-    - rgba(172, 188, 195, 0.26) / Pewter Blue (slight transparency) is used for the background of the text.
-    - rgba(22, 57, 80, 0.336) / Prussia Blue (slight trnsparency) for the border    around text on the index page. 
+- rgb(22, 57, 80) / Prussia Blue is the main body text color
+- rgba(172, 188, 195, 0.26) / Pewter Blue (slight transparency) is used for the background of the text.
+- rgba(22, 57, 80, 0.336) / Prussia Blue (slight trnsparency) for the border    around text on the index page. 
 
 Photos are choosen to compliment the use of these colors.
 
@@ -117,21 +117,58 @@ For the logo the font <strong>Anton</strong> was used, however the logo was crea
 Throughout the website the font <strong>Poppins</strong> was used.   This font was obtained using Google Fonts.   
 
 -----
-
 ## Features 
 -----
 
 ### Existing Features 
 
+- created in HTML5 and CSS3
+- 4 different pages
+- homepage
+- video showing how to make the recipe
+- sign-up form 
+
 ### Features for future implementation
+
+- archive page for past recipes
+- shop for specilised cooking classes
+- sign-up forms to work properly by storing data and sending newsletter
+- blog about Kitchen Nippers 
+- cookie pop up 
+- All social media links will link to a page for Kitchen Nippers rather than just the sign-in page.  
 
 -----
 
 ## Technologies Used 
 
+- HTML5 for markup
+- CSS3 for style 
+- Cloudinary.com to store images
+- Font Awesome for icons
+- Google Fonts for font
+- Git for version control 
+- GibHub for keeping the files and documents and deployment of the website
+
 -----
 
 ## Resources 
+
+- Code Institute course materials, tutor and mentor support 
+- Code Institute Slack Community 
+- Love Running walk-through on Code Insitute
+- Youtube - https://www.youtube.com/watch?v=k32voqQhODc (for flexbox)
+- Youtube - https://www.youtube.com/watch?v=pMVO1OPfVJ8&t=0s (for grid)
+- W3schools 
+- Pexels.com for images 
+    - Gustavo Fring - Main hero image woman and child (index page)
+    - Jill Wellington - Shamrock biscuit image (index page)
+    - Jasmin - Star and Jam cookies image (index page)
+    - Drake Nicolls - bun tray and other tools image (index page)
+    - Michael Burrows - bread in a frying pan (recipe page)
+- canva.com for logo
+- instagram.com - video on recipe page
+- Inshot Video Editor to create video on recipe page and instagram link
+    - the video was created by the creator (instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The original video has been lost so the the instagram code was embedded directly into the recipe page.  The instagram link on the footer will also link directly to the video. 
 
 -----
 
@@ -139,7 +176,9 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 
 -----
 
-### Browser Testing 
+### Browser Testing
+
+
 
 ### Validators 
 
