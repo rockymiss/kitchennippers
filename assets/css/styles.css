@@ -122,8 +122,8 @@ body {
     overflow: hidden;
     margin: auto;
 }
-#news-link {
-    text-decoration: none;
+a#news-link {
+    text-decoration: none; 
 }
 /*button to get cooking*/
 .button-container {
@@ -218,15 +218,13 @@ body {
 .instructions-container {
     text-align: left;
 }
-.instructions-container h3 {
-    text-align: center;
-}
 .insta-video-container {
-    width: 60%;
+    width: 100%;
     margin: auto;
     background: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
     padding: 0;
+    text-align: center;
 }
 /*Form Sign-up Page*/
 .signup-form {
