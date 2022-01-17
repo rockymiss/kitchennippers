@@ -4,7 +4,7 @@
 
 For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers which teaches children and their adults how to cook together. 
 
-Please click [here](https://github.com/rockymiss/Kitchennippers) for link to the website 
+Please click [here](https://rockymiss.github.io/kitchennippers/) for link to the website 
 
 The Design has been focused to **Desktop** first and **Responsive**
 
