@@ -84,10 +84,37 @@ The website consists of 3 main pages and 1 thank you page.  Each page has a spec
 
     The thank you page is laid out like the other pages with the logo, navigation and footer the same.  The thank you page lets the user know the form has been completed.   The user can either use the links on the navigation or logo or use the button to return to the home page.  
 
-
-
 ### Skeleton Plane
+
+The design was focused to desktop first but can be used on smaller devices such as mobiles too.  Wireframes are done using balsamiq.  As seen below: 
+
 ### Surface Plane 
+
+- Colors 
+
+The background of the entire website is white.
+
+For the navigation bar, footer and buttons the following are used: 
+
+    - rgb(22, 57, 80) / Prussia Blue for the background
+    - rgb(255, 255, 255) / White for text
+    - rgb(172, 188, 195) / Pewter Blue for hover over text
+    - 0 0 0.6rem #fff text shadow to show the active page
+
+
+For the main body with text the following are used: 
+
+    - rgb(22, 57, 80) / Prussia Blue is the main body text color
+    - rgba(172, 188, 195, 0.26) / Pewter Blue (slight transparency) is used for the background of the text.
+    - rgba(22, 57, 80, 0.336) / Prussia Blue (slight trnsparency) for the border    around text on the index page. 
+
+Photos are choosen to compliment the use of these colors.
+
+- Typography
+
+For the logo the font <strong>Anton</strong> was used, however the logo was created externally using Canva.com.
+
+Throughout the website the font <strong>Poppins</strong> was used.   This font was obtained using Google Fonts.   
 
 -----
 

@@ -78,7 +78,7 @@ body {
 }
 #overlap {
     font-size: 1.5rem;
-    font-family: 'prompt', sans-serif;
+    font-family: 'poppins', sans-serif;
     letter-spacing: 0.2rem;
     text-align: center;
     width: 15rem;
@@ -124,7 +124,6 @@ body {
 }
 #news-link {
     text-decoration: none;
-    color: navy;
 }
 /*button to get cooking*/
 .button-container {
