@@ -30,11 +30,11 @@ As a user it is important:
 ### Users Fulfilment
 <ul>
 <li>In order to guide the user to what they want the navigation, footer and content are laid out in a clear way</li>
-<li>the user can find the recipe that is suited to a level for children or beginner adults learning how to cook. </li>
+<li>the user can find the recipe that is suited to a level for a child or beginner adults learning how to cook. </li>
 <li>The recipe can be found on all pages through navigation links or buttons</li>
 <li>Clear instructions are laid out in the recipe page together with a video for assistance</li>
 <li>Everything including the cooking implements are included in the recipe section</li>
-<li>The user can sign up to a monthly newstletter which will give them access to past and future recipes and more tips to learn how to cook</li></ul>
+<li>The idea is that the user can sign up to a monthly newstletter which will give them access to past and future recipes and more tips to learn how to cook</li></ul>
 
 -----
 
@@ -42,9 +42,9 @@ As a user it is important:
 
 ### Strategy Plane 
 
-The website is created to get adults and children cooking together using simple yet effective recipes.  Once easy recipe is posted per month with clear instructions and an opportunity is there to sign-up to learn more and to get more recipes.  
+The website is created to get adults and children cooking together using simple yet effective recipes.  Once a month an easy recipe is posted with clear instructions and an opportunity is there to sign-up to learn more and to get more recipes.  
 
-The main aim is that the adults have very little to navigate to get to the instructions and the recipe, there is less to read, and the layout is simple so thare are little to no distractions. 
+The main aim is that the adults have very little to navigate to get to the instructions and the recipe, there is less to read, and the layout is simple so there are little to no distractions. 
 
 ### Scope Plane 
 
@@ -54,7 +54,7 @@ Features include:
 - Homepage with links, buttons and logo to other pages
 - Recipe/Instructions page 
 - Signup Page
-- Thank you for submission page
+- Thank you page to confirm submission on form
 
 ### Structure Plane
 
@@ -70,7 +70,7 @@ The website consists of 3 main pages and 1 thank you page.  Each page has a spec
 
 - Home Page
 
-    The homepage consists of a main hero image and an overlap text telling the user in short what the website is about i.e. "Learn to Cook with Kitchen Nippers".  Beneath the image is an about section with images telling the user a little bit about Kitchen Nippers and what the site consists of and there is a text link to the sign-up page.  There is also a 'Get Cooking' button to bring the user directly to the recipe page. 
+    The homepage consists of a main hero image and an overlap text telling the user in short what the website is about i.e. "Learn to Cook with Kitchen Nippers".  Beneath the image is an about section with images telling the user a little bit more about Kitchen Nippers and what the site consists of and there is a text link to the sign-up page.  There is also a 'Get Cooking' button to bring the user directly to the recipe page. 
 
 - Recipe Page
 
@@ -82,11 +82,21 @@ The website consists of 3 main pages and 1 thank you page.  Each page has a spec
 
 - Thank you Page 
 
-    The thank you page is laid out like the other pages with the logo, navigation and footer the same.  The thank you page lets the user know the form has been completed.   The user can either use the links on the navigation or logo or use the button to return to the home page.  
+    The thank you page is laid out like the other pages with the logo, navigation and footer the same.  The thank you page lets the user know the form has been completed.   The user can either click the navigation links, logo or use the button to return to the home page.  
 
 ### Skeleton Plane
 
 The design was focused to desktop first but can be used on smaller devices such as mobiles too.  Wireframes are done using balsamiq.  As seen below: 
+
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442463/kitchen-nippers/index.html_j7by7m.png)
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/recipe.html_i3ndv6.png)
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/sign-up.html_jsbmb7.png)
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/thankyou.html_wucsey.png)
+
 
 ### Surface Plane 
 
