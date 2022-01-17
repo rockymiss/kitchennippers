@@ -1,4 +1,4 @@
-![alt text](https://github.com/rockymiss/kitchennippers/blob/main/assets/images/kitchen-nippers-logo.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png)
 
 # Kitchen Nippers
 
@@ -7,6 +7,9 @@ For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Dev
 Please click [here](https://github.com/rockymiss/Kitchennippers) for link to the website 
 
 The Design has been focused to **Desktop** first and **Responsive**
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419807/kitchen-nippers/multi-device-mockup_lxarvb.png)
+
 ## Who is this website for and what does it do? 
 
 This is a website for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them.  Kitchen Nippers is entirely online with a view to expanding in the future. 
