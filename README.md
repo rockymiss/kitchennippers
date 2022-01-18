@@ -1,5 +1,7 @@
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png)
 
+
+
 # Kitchen Nippers
 
 For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers which teaches children and their adults how to cook together. 

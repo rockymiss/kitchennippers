@@ -136,6 +136,7 @@ body {
 
 .about-image {
     padding: 0 1em;
+    width: 11em;
     height: 11em;
     overflow: hidden;
     margin: auto;
@@ -326,17 +327,13 @@ section h2 {
 }
 
 /*Thank you message*/
-.thank-you-message {
-    width: 70%;
-    padding: 8em;
+.thank-you-container {
     text-align: center;
-    font-size: 1.3em;
-    display: inline;
-}
-
-.thank-you-message div {
-    text-align: center;
-    padding: 1em 1em;
+    background: rgba(172, 188, 195, 0.26);
+    border-radius: 2em;
+    width: 60%;
+    margin: auto;
+    padding: 1em 2em;
 }
 
 /*Media queries */
