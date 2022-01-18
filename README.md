@@ -1,8 +1,4 @@
-<center>
-
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png)
-
-</center>
 
 # Kitchen Nippers
 
@@ -16,7 +12,7 @@ The Design has been focused to **Desktop** first and **Responsive**
 
 ## Who is this website for and what does it do? 
 
-This is a website for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them.  Kitchen Nippers is entirely online with a view to expanding in the future. 
+This is a website for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them. Kitchen Nippers is entirely online with a view to expanding in the future.   
 
 -----
 
@@ -33,9 +29,9 @@ As a user it is important:
 
 ### Users Fulfilment
 <ul>
-<li>In order to guide the user to what they want the navigation, footer and content are laid out in a clear way</li>
-<li>the user can find the recipe that is suited to a level for a child or beginner adults learning how to cook. </li>
-<li>The recipe can be found on all pages through navigation links or buttons</li>
+<li>In order to guide the user to what they want the navigation, footer and content are laid out in a clear way.</li>
+<li>the user can find the recipe that is suited to a level for a child or beginner adults learning how to cook.</li>
+<li>The recipe can be found on all pages through navigation links or buttons.  As there is only one recipe there is no need to search.</li>
 <li>Clear instructions are laid out in the recipe page together with a video for assistance</li>
 <li>Everything including the cooking implements are included in the recipe section</li>
 <li>The idea is that the user can sign up to a monthly newstletter which will give them access to past and future recipes and more tips to learn how to cook</li></ul>
@@ -46,7 +42,7 @@ As a user it is important:
 
 ### Strategy Plane 
 
-The website is created to get adults and children cooking together using simple yet effective recipes.  Once a month an easy recipe is posted with clear instructions and an opportunity is there to sign-up to learn more and to get more recipes.  
+The website is created to get adults and children cooking together using simple yet effective recipes.  Once a month an easy recipe is posted with clear instructions and an opportunity is there to sign-up to learn more and to get more recipes.   Only one recipe a month is posted.  It is hoped that users like the site, it's ease of use, the easy recipes posted and that they come back each month for a new recipe.
 
 The main aim is that the adults have very little to navigate to get to the instructions and the recipe, there is less to read, and the layout is simple so there are little to no distractions. 
 
@@ -237,7 +233,7 @@ To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tab
 
 #### Issues 
 
-The main issue was the embedded video from Instagram.  Instagram uses alot of styles which seemed to affect my css styling.  I searched for a solution and noted that others online seemed to have the same issue.  After changes to some of the styling it helped slightly but not enough.  As mentioned previously the video was created in May 2020 and the original had been lost.  Instagram do not allow downloading of videos so to fix the issue I re-created the video using Inshot and posted it to youtube where the styling is considerably less and I could manipulate it easily to fit into my code.  Re-creating the video also meant that I could change the text on the video to be better read by visually impaired people.  
+The main issue was the embedded video from Instagram.  Instagram uses alot of styles which seemed to affect my own styling.  I searched for a solution and noted that others online seemed to have the same issues with Instagram videos.  After changes to some of the styling it helped slightly but not sufficient enought for responsiveness.  As mentioned previously the video was created in May 2020.  The original video had been lost and as Instagram do not allow downloading of videos I decided to re-create the video.  As in May 2020 I used Inshot to edit the video.  Fortunately I had elements of the video so I could easily re-create the video using Inshot again.  I then posted the video to Youtube where the styling is considerably less and I could manipulate it easily to fit into my code.  Re-creating the video also meant that I could change the text on the video to be better read by the visually impaired.  I could have added the video to my directory however I felt it better to have the video on different platforms so it can be viewed by the majority of people.  
 
 -----
 
@@ -249,18 +245,25 @@ Local repository and IDE used: GitPod
 Remote repository used: GitHub
 
 Steps followed: 
-- A new public repository was created using GitHub
-- A workspace was created and I started coding on GitPod 
+- I created a new public repository on GitHub using the Code Institute template.
+- I then created a workspace and started coding on GitPod. 
 - Pages were created along with assets folders and css style file. 
 - As I worked I previewed changes using ports to open the browser.
 - To save my work safely I continued to use the terminal consistently by using: 
-    - git add .
-    - git commit -m""
-    - git push 
+    - <strong>git add .</strong> to add work to git
+    - <strong>git commit -m""</strong> to commit the work 
+    - <strong>git push</strong> to update work to GitHub 
 
 ### Deployment 
 
-I used GitHub to deploy the site through settings and GitHub pages.  The main branch was used as the source.  The website is published on GitHub and the link is provided above. 
+I used GitHub to deploy the site by:
+
+- Selecting the repository. 
+- Click on settings. 
+- Scroll down to GitHub pages and open that page. 
+- Select main branch and click save.
+
+The website is published on GitHub and the link is provided in that section. 
 
 
 
