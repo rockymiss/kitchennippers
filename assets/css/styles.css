@@ -280,7 +280,6 @@ section h2 {
     font-family: inherit;
     font-size: 1.3em;
 }
-
 /*Thank you message*/
 .thank-you-message {
     width: 70%;
@@ -289,13 +288,10 @@ section h2 {
     font-size: 1.3em;
     display: inline;
 }
-
 .thank-you-message div {
     text-align: center;
     padding: 1em 1em;
 }
-
-
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {

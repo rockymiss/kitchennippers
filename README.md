@@ -193,8 +193,10 @@ For the video on YouTube the font <strong>Bebas</strong> was used.  <strong>Amat
 - Youtube - video on recipe page
 - TinyPNG - to compress all images
 - Inshot Video Editor to create video on recipe page and YouTube video link
-    - the video was created by the creator (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.  Click [here](https://youtu.be/B037WcSqDog) to view video.   
-
+    - the video was created by the creator (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.  Click [here](https://youtu.be/B037WcSqDog) to view video.  
+- Music credits on Video: 
+    - Song: Mes(s)merized
+    - Musician: Philip E Morris
 
 -----
 
@@ -234,7 +236,22 @@ The main issue was the embedded video from Instagram.  Instagram uses alot of st
 
 ### Git & GitHub 
 
+Local repository and IDE used: GitPod
+Remote repository used: GitHub
+
+Steps followed: 
+- A new public repository was created using GitHub
+- A workspace was created and I started coding on GitPod 
+- Pages were created along with assets folders and css style file. 
+- As I worked I previewed changes using ports to open the browser.
+- To save my work safely I continued to use the terminal consistently by using: 
+    - git add .
+    - git commit -m""
+    - git push 
+
 ### Deployment 
+
+I used GitHub to deploy the site through settings and GitHub pages.  The main branch was used as the source.  The website is published on GitHub and the link is provided above. 
 
 
 
