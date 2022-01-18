@@ -218,6 +218,9 @@ a#news-link {
 .instructions-container {
     text-align: left;
 }
+.instructions-text h3 {
+    text-align: center;
+}
 .video-container {
     width: 60%;
     margin: auto;

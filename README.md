@@ -200,10 +200,13 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 
 -----
 
+### Local Testing
+
+Testing of all buttons, links, functionality and grammer on the website has been carried out.  Some links to the video needed to be updated.  Centering of items and other gramatical errors were fixed.  
+
 ### Browser Testing
 
-The website has been tested in 
-
+The Website has been tested on Google Chrome, Microsoft Edge, Safari, 
 
 
 ### Validators 
