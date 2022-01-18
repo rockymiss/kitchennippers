@@ -191,7 +191,7 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 - Youtube - video on recipe page
 - TinyPNG - to compress all images
 - Inshot Video Editor to create video on recipe page and YouTube video link
-    - the video was created by the creator (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.   
+    - the video was created by the creator (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.  Click [here](https://youtu.be/B037WcSqDog) to view video.   
 
 
 -----
