@@ -137,6 +137,8 @@ For the logo the font <strong>Anton</strong> was used, however the logo was crea
 
 Throughout the website the font <strong>Poppins</strong> was used.   This font was obtained using Google Fonts.   
 
+For the video on YouTube the font <strong>Bebas</strong> was used.  <strong>AmaticSC</strong> was used on the original Instagram video in May 2020.
+
 -----
 ## Features 
 -----
@@ -202,20 +204,29 @@ Throughout the website the font <strong>Poppins</strong> was used.   This font w
 
 ### Local Testing
 
-Testing of all buttons, links, functionality and grammer on the website has been carried out.  Some links to the video needed to be updated.  Centering of items and other gramatical errors were fixed.  
+Testing of all buttons, links, functionality and grammer on the website has been carried out.  Some links to the video needed to be updated.  Centering of items and other gramatical errors were fixed.  The video proved to be an issue which is discussed further below. 
+
+### User Testing
+
+The website was sent to approximately 20 people, most of which were parents.  As a result grammatical errors came up and were fixed.  Users found the website very functional and easy to navigate. 
 
 ### Browser Testing
 
-The Website has been tested on Google Chrome, Microsoft Edge, Safari, 
+The Website has been tested on Google Chrome, Microsoft Edge, Safari and Opera.   On all browsers testing was as expected and functionality and responsiveness was good. 
 
+Mobile Testing: Huawei P30, IPhone 7s, IPhone 11, Iphone 12 Pro max, Redmi note 9 and various Samsung mobile devices.  Issues arose with iphone devices except the pro max where text was hidden the about section of the index page.  This also occured on the Redmi note 9.  This issue was fixed by adjusting the height of the div in question.     
 
 ### Validators 
 
-### Local Testing 
+The website was tested using Jigsaw W3C validation.  This should up minor syntax errors and they were fixed accordingly.  Once issues were dealt with the validator showed no errors in either html or css. 
 
 ### Responsiveness 
 
+To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tablet sizes were tested.  The website responded well.
+
 #### Issues 
+
+The main issue was the embedded video from Instagram.  Instagram uses alot of styles which seemed to affect my css styling.  I searched for a solution and noted that others online seemed to have the same issue.  After changes to some of the styling it helped slightly but not enough.  As mentioned previously the video was created in May 2020 and the original had been lost.  Instagram do not allow downloading of videos so to fix the issue I re-created the video using Inshot and posted it to youtube where the styling is considerably less and I could manipulate it easily to fit into my code.  Re-creating the video also meant that I could change the text on the video to be better read by visually impaired people.  
 
 -----
 
