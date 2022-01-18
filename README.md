@@ -90,7 +90,7 @@ The website consists of 3 main pages and 1 thank you page.  Each page has a spec
 
 ### Skeleton Plane
 
-The design was focused to desktop first but can be used on smaller devices such as mobiles too.  Wireframes are done using balsamiq:  
+The design was focused to desktop first but can be used on smaller devices such as tablets and mobiles too.  Wireframes are done using balsamiq:  
 
 <center>Index</center> 
 
@@ -154,10 +154,10 @@ For the video on YouTube the font <strong>Bebas</strong> was used.  <strong>Amat
 ### Features for future implementation
 
 - archive page for past recipes
-- shop for specilised cooking classes
+- shop for specilised cooking classes and equipment
 - sign-up forms to work properly by storing data and sending newsletter
 - blog about Kitchen Nippers 
-- cookie pop up 
+- cookie pop up for GDPR
 - All social media links will link to a page for Kitchen Nippers rather than just the sign-in page.  
 
 -----
@@ -216,11 +216,20 @@ The website was sent to approximately 20 people, most of which were parents.  As
 
 The Website has been tested on Google Chrome, Microsoft Edge, Safari and Opera.   On all browsers testing was as expected and functionality and responsiveness was good. 
 
-Mobile Testing: Huawei P30, IPhone 7s, IPhone 11, Iphone 12 Pro max, Redmi note 9 and various Samsung mobile devices.  Issues arose with iphone devices except the pro max where text was hidden the about section of the index page.  This also occured on the Redmi note 9.  This issue was fixed by adjusting the height of the div in question.     
+Mobile Testing: Huawei P30, IPhone 7s, IPhone 11, Iphone 12 Pro max, Redmi note 9 and various Samsung mobile devices.  Issues arose with iphone devices, except the pro max, where text was hidden in the about section of the index page.  This also occured on the Redmi note 9.  This issue was fixed by adjusting the height of the holders in question.     
+
+Error
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642509356/kitchen-nippers/user-test-1-error_c32lex.png)
+
+Fix 
+
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642509356/kitchen-nippers/user-test-1-fix_mu5ya1.png)
+
 
 ### Validators 
 
-The website was tested using Jigsaw W3C validation.  This should up minor syntax errors and they were fixed accordingly.  Once issues were dealt with the validator showed no errors in either html or css. 
+The website was tested using Jigsaw W3C validation.  This showed up minor syntax errors and they were fixed accordingly.  Once issues were dealt with the validator showed no errors in either html or css. 
 
 ### Responsiveness 
 

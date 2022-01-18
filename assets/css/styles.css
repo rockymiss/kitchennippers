@@ -6,11 +6,13 @@
     margin: 0;
     border: none;
 }
+
 body {
     font-family: 'poppins', sans-serif;
     font-size: 1.2rem;
     color: rgb(22, 57, 80);
 }
+
 /*header logo*/
 .logo {
     padding: 1rem;
@@ -20,24 +22,29 @@ body {
     width: 15em;
     margin: auto;
 }
+
 .active {
     text-shadow: 0 0 0.6rem #fff;
 }
+
 /*navigation links*/
 #nav-area {
     width: 100%;
 
 
 }
+
 .nav-list {
     background-color: rgb(22, 57, 80);
     display: flex;
     justify-content: space-around;
     margin-bottom: 1rem;
 }
+
 .nav-list li {
     list-style: none;
 }
+
 .nav-list a {
     text-decoration: none;
     color: white;
@@ -45,14 +52,17 @@ body {
     font-family: 'poppins', sans-serif;
     font-size: 1.3rem;
 }
+
 .nav-list a:hover {
     color: rgb(172, 188, 195);
 }
+
 /*main image*/
 #image-container {
     display: grid;
     grid-template-columns: 1fr;
 }
+
 #cook-image {
     height: 30rem;
     width: 100%;
@@ -62,20 +72,25 @@ body {
     grid-column: 1;
     grid-row: 1;
 }
+
 #overlap,
 #overlap h2 {
     color: white;
 }
+
 #overlap h3 {
     font-size: 2rem;
 }
+
 #overlap p {
     font-size: 1rem;
 }
+
 #overlap h4 {
     font-size: 2.5rem;
     line-height: 3.6rem;
 }
+
 #overlap {
     font-size: 1.5rem;
     font-family: 'poppins', sans-serif;
@@ -91,6 +106,7 @@ body {
     grid-row: 1;
     align-self: end;
 }
+
 /*about us section */
 .about-container {
     display: grid;
@@ -108,6 +124,7 @@ body {
     background-color: rgba(172, 188, 195, 0.26);
     border-radius: 2em;
 }
+
 .about-text {
     padding: 1em;
     font-size: 1rem;
@@ -116,31 +133,37 @@ body {
     border-radius: 2em;
     border: rgba(22, 57, 80, 0.336) solid 2px;
 }
+
 .about-image {
     padding: 0 1em;
     height: 11em;
     overflow: hidden;
     margin: auto;
 }
+
 a#news-link {
-    text-decoration: none; 
+    text-decoration: none;
 }
+
 /*button to get cooking*/
 .button-container {
     display: flex;
     justify-content: center;
     padding-top: 1em;
 }
+
 .button-text {
     background-color: rgb(22, 57, 80);
     padding: 0.5em;
     border-radius: 1em;
 }
+
 .button-text a {
     text-decoration: none;
     color: white;
     font-size: 1.8rem;
 }
+
 /*Footer - Social Media Links*/
 .social-media {
     background-color: rgb(22, 57, 80);
@@ -149,6 +172,7 @@ a#news-link {
     margin-top: 1em;
 
 }
+
 .footer-list-item {
     list-style: none;
     text-decoration: none;
@@ -156,17 +180,21 @@ a#news-link {
     padding: 0 4rem;
     flex-direction: row;
 }
+
 .footer-list-item a {
     color: white;
     height: auto;
 }
+
 .footer-list-item a:hover {
     color: rgb(172, 188, 195);
 }
+
 /*target social media images directly*/
 .fab {
     margin: 0;
 }
+
 /*Recipe Page*/
 .about-recipe-container {
     background-color: rgba(172, 188, 195, 0.26);
@@ -175,16 +203,19 @@ a#news-link {
     border-radius: 2em;
     padding: 1em 2em;
 }
+
 .about-recipe-container h1 {
     font-size: 0.9rem;
     padding: 1em 1em;
     text-align: right;
 }
+
 .about-recipe-container h2 {
     color: rgb(22, 57, 80);
     font-size: 1.5rem;
     text-align: center;
 }
+
 .about-recipe-image {
     width: 10em;
     height: 10em;
@@ -193,15 +224,18 @@ a#news-link {
     overflow: hidden;
     background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/flatbread-pan_q6muiy.png') no-repeat center center;
 }
+
 .about-recipe-text {
     display: inline;
     text-align: left;
     padding-top: 1em;
 }
+
 .separator-logo {
     background: url('../images/spoon-and-fork.png') no-repeat center center;
     height: 5em;
 }
+
 .ingredients-container,
 .instructions-container {
     text-align: center;
@@ -211,16 +245,20 @@ a#news-link {
     margin: auto;
     padding: 1em 2em;
 }
+
 .ingredients-list {
     list-style-type: none;
     padding: 1em;
 }
+
 .instructions-container {
     text-align: left;
 }
+
 .instructions-text h3 {
     text-align: center;
 }
+
 .video-container {
     width: 60%;
     margin: auto;
@@ -229,6 +267,7 @@ a#news-link {
     padding: 0;
     text-align: center;
 }
+
 /*Form Sign-up Page*/
 .signup-form {
     background-color: rgba(172, 188, 195, 0.26);
@@ -238,15 +277,18 @@ a#news-link {
     border-radius: 2em;
     color: rgb(22, 57, 80);
 }
+
 section h2 {
     text-align: center;
     padding: 1em 0;
 }
+
 .form-inside {
     background: white;
     border-radius: 2em;
     padding: 1em;
 }
+
 .form-row {
     padding: 1em;
     border-radius: 2em;
@@ -254,11 +296,13 @@ section h2 {
     align-items: center;
     flex-wrap: wrap;
 }
+
 .form-row label {
     width: auto;
     flex: 1;
     padding-right: 1em;
 }
+
 .form-text-input {
     border: 1px solid rgba(22, 57, 80, 0.349);
     border-radius: 1em;
@@ -280,6 +324,7 @@ section h2 {
     font-family: inherit;
     font-size: 1.3em;
 }
+
 /*Thank you message*/
 .thank-you-message {
     width: 70%;
@@ -288,10 +333,12 @@ section h2 {
     font-size: 1.3em;
     display: inline;
 }
+
 .thank-you-message div {
     text-align: center;
     padding: 1em 1em;
 }
+
 /*Media queries */
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
@@ -326,82 +373,101 @@ section h2 {
     #overlap {
         display: none;
     }
+
     /*recipe*/
     .about-recipe-container {
         display: flex;
         flex-direction: column;
     }
+
     .about-recipe-container h1 {
         font-size: 0.7rem;
         padding: 0;
     }
+
     .about-recipe-image {
         margin-right: 0;
         margin: auto;
     }
+
     body {
         font-size: 1rem;
     }
+
     .video-container {
         width: 100%;
     }
 }
+
 /*For small screens from 425px wide and down*/
 @media screen and (max-width: 425px) {
     .footer-list-item {
         font-size: 1.6rem;
     }
+
     #cook-image {
         background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-mix-smaller_wuwuby.png')no-repeat center center;
         height: 15em;
     }
+
     .nav-list a {
         font-size: 1rem;
     }
+
     .about-container {
         row-gap: 0.5em;
         grid-template-rows: 11rem;
     }
+
     .about-image {
         width: 6em;
         height: 6em;
 
         padding: 0;
     }
+
     .about-text {
         padding: 0.5em;
         font-size: 0.8rem;
         text-align: center;
-    } 
+    }
 }
+
 /*For small screens from 370px wide and down*/
 @media screen and (max-width: 370px) {
     .footer-list-item {
         padding: 0 1.5rem;
     }
+
     .about-recipe-container h1 {
         font-size: 0.7rem;
         text-align: center;
     }
+
     .form-row label {
         font-size: 1rem;
     }
+
     .form-inside {
         padding: 0;
     }
+
     .submit-inside {
         padding: 0.5em 2em;
         font-size: 1.1em;
     }
+
     .signup-form {
         width: auto;
     }
 }
+
 /*For small screens from 320px wide and down*/
 @media screen and (max-width: 320px) {
     .nav-list a {
         font-size: 0.8rem;
     }
+
     .footer-list-item {
         font-size: 1.5rem;
         padding: 0 1rem;
