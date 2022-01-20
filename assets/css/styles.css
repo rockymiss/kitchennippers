@@ -363,13 +363,13 @@ section h2 {
     }
 }    
 
-/*For medium to small screens from 1060px wide and down*/
+/*For screens from 1060px wide and down*/
 @media screen and (max-width: 1060px) {
     #cook-image {
         background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702129/kitchen-nippers/parent-child-pour_wjytfu.png') no-repeat center center;
     }
 }
-/*For medium to small screens from 720px wide and down*/
+/*For screens from 720px wide and down*/
 @media screen and (max-width: 720px) {
 .about-container {
     grid-template-columns: 1fr;
@@ -377,7 +377,7 @@ section h2 {
 }
 }
 
-/*For small screens from 590px wide and down*/
+/*For screens from 590px wide and down*/
 @media screen and (max-width: 590px) {
     .footer-list-item {
         padding: 0 2rem;
@@ -417,11 +417,12 @@ section h2 {
     }
 }
 
-/*For small screens from 425px wide and down*/
+/*For screens from 425px wide and down*/
 @media screen and (max-width: 425px) {
     
     .footer-list-item {
-        font-size: 1.6rem;
+        font-size: 1.5rem;
+        padding: 0 1rem;
     }
 
     #cook-image {
@@ -430,7 +431,7 @@ section h2 {
     }
 
     .nav-list a {
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 
     .about-container {
@@ -449,19 +450,10 @@ section h2 {
         font-size: 0.8rem;
         text-align: center;
     }
-}
-
-/*For small screens from 370px wide and down*/
-@media screen and (max-width: 370px) {
-    .footer-list-item {
-        padding: 0 1.5rem;
-    }
-
     .about-recipe-container h1 {
         font-size: 0.7rem;
         text-align: center;
     }
-
     .form-row label {
         font-size: 1rem;
     }
@@ -477,17 +469,5 @@ section h2 {
 
     .signup-form {
         width: auto;
-    }
-}
-
-/*For small screens from 320px wide and down*/
-@media screen and (max-width: 320px) {
-    .nav-list a {
-        font-size: 0.8rem;
-    }
-
-    .footer-list-item {
-        font-size: 1.5rem;
-        padding: 0 1rem;
     }
 }
