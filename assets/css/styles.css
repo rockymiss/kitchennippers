@@ -54,7 +54,7 @@ body {
 }
 
 .nav-list a:hover {
-    color: rgb(172, 188, 195);
+    color: rgba(167, 182, 199);
 }
 
 /*main image*/
@@ -100,7 +100,7 @@ body {
     height: 15rem;
     border-radius: 50%;
     padding: 1rem;
-    background-color: rgb(172, 188, 195, 0.8);
+    background-color: rgba(167, 182, 199, 0.8);
     bottom: 0.6rem;
     grid-column: 1;
     grid-row: 1;
@@ -121,7 +121,7 @@ body {
     column-gap: 1.5em;
     row-gap: 1.5em;
     margin: auto;
-    background-color: rgba(172, 188, 195, 0.26);
+    background-color: rgba(242, 244, 248);
     border-radius: 2em;
 }
 
@@ -165,6 +165,10 @@ a#news-link {
     font-size: 1.8rem;
 }
 
+.button-text a:hover {
+    color: rgb(167, 182, 199);
+}
+
 /*Footer - Social Media Links*/
 .social-media {
     background-color: rgb(22, 57, 80);
@@ -188,7 +192,7 @@ a#news-link {
 }
 
 .footer-list-item a:hover {
-    color: rgb(172, 188, 195);
+    color: rgb(167, 182, 199);
 }
 
 /*target social media images directly*/
@@ -198,7 +202,7 @@ a#news-link {
 
 /*Recipe Page*/
 .about-recipe-container {
-    background-color: rgba(172, 188, 195, 0.26);
+    background-color: rgba(242, 244, 248);
     width: 60%;
     margin: auto;
     border-radius: 2em;
@@ -240,7 +244,7 @@ a#news-link {
 .ingredients-container,
 .instructions-container {
     text-align: center;
-    background: rgba(172, 188, 195, 0.26);
+    background: rgba(242, 244, 248);
     border-radius: 2em;
     width: 60%;
     margin: auto;
@@ -263,7 +267,7 @@ a#news-link {
 .video-container {
     width: 60%;
     margin: auto;
-    background: rgba(172, 188, 195, 0.26);
+    background: rgba(242, 244, 248);
     border-radius: 2em;
     padding: 0;
     text-align: center;
@@ -271,7 +275,7 @@ a#news-link {
 
 /*Form Sign-up Page*/
 .signup-form {
-    background-color: rgba(172, 188, 195, 0.26);
+    background-color: rgba(242, 244, 248);
     padding: 1em;
     margin: auto;
     width: 60%;
@@ -324,12 +328,17 @@ section h2 {
     border-radius: 2em;
     font-family: inherit;
     font-size: 1.3em;
+    cursor: pointer;
+}
+
+.submit-inside:hover {
+    color: rgb(167, 182, 199);
 }
 
 /*Thank you message*/
 .thank-you-container {
     text-align: center;
-    background: rgba(172, 188, 195, 0.26);
+    background: rgba(242, 244, 248);
     border-radius: 2em;
     width: 60%;
     margin: auto;
