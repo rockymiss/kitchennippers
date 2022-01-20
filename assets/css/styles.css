@@ -18,7 +18,7 @@ body {
     padding: 1rem;
     text-align: center;
     height: 8em;
-    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702127/kitchen-nippers/kitchen-nippers-logo_fevkgk.png') no-repeat center center;
     width: 15em;
     margin: auto;
 }
@@ -66,7 +66,7 @@ body {
 #cook-image {
     height: 30rem;
     width: 100%;
-    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-3_ijv3qm.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702128/kitchen-nippers/parent-child-3_nm4zzf.png') no-repeat center center;
     margin-left: auto;
     margin-top: 0;
     grid-column: 1;
@@ -227,7 +227,7 @@ a#news-link {
     float: left;
     margin-right: 2em;
     overflow: hidden;
-    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/flatbread-pan_q6muiy.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702128/kitchen-nippers/flatbread-pan_dai63f.png') no-repeat center center;
 }
 
 .about-recipe-text {
@@ -237,7 +237,7 @@ a#news-link {
 }
 
 .separator-logo {
-    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419810/kitchen-nippers/spoon-and-fork_hvoods.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702129/kitchen-nippers/spoon-and-fork_rjvjpo.png') no-repeat center center;
     height: 5em;
 }
 

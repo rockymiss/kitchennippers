@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419806/kitchen-nippers/kitchen-nippers-logo_usdocl.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702127/kitchen-nippers/kitchen-nippers-logo_fevkgk.png)
 
 
 
@@ -10,7 +10,7 @@ Please click [here](https://rockymiss.github.io/kitchennippers/) for link to the
 
 The Design has been focused to **Desktop** first and **Responsive**
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642419807/kitchen-nippers/multi-device-mockup_lxarvb.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/multi-device-mockup_sc3qbw.png)
 
 -----
 ## Who is this website for and what does it do? 
@@ -89,19 +89,19 @@ The design was focused to desktop first but can be used on smaller devices such 
 
 ##### Index
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442463/kitchen-nippers/index.html_j7by7m.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/index.html_dg5z8h.png)
 
 ##### Recipe
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/recipe.html_i3ndv6.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/recipe.html_ivgosz.png)
 
 ##### Sign-up
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/sign-up.html_jsbmb7.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/sign-up.html_utxa3z.png)
 
 ##### thank-you 
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/thankyou.html_wucsey.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/thankyou.html_iaxxjv.png)
 
 
 ### Surface  
@@ -110,7 +110,7 @@ The design was focused to desktop first but can be used on smaller devices such 
 
 The following palette of colors were chosen as they were clean, welcoming and easy to read: 
 
-![alt text](put palette here)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/color-palette_ihhogz.png)
 
 #/rgb(22,57,80) - for navigation menu, footer menu and buttons. 
 #/rgb(167,182,199.08) - for overlay circle  
@@ -202,16 +202,16 @@ The website was sent to a group of approximately 20 people, most of which were p
 - Redmi note 9
 - Samsung A21.  
 
-This testing proved very helpful with responsivness errors.  Issues arose with iphone devices, except the pro max, where text was hidden in the about section of the index page.  This also occured on the Redmi note 9.  This issue, as shown in the images below, was fixed by adjusting the height of the sections in question.     
+This testing proved very helpful with responsivness errors as some errors did not show up using chrome dev tools.  Issues arose with iphone devices, (except the pro max), where text was hidden in the about section of the index page.  This also occured on the Redmi note 9.  This issue, as shown in the images below, was fixed by adjusting the height of the sections in question.      
 
 
 Error
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642509356/kitchen-nippers/user-test-1-error_c32lex.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/user-test-1-error_fsmxlz.png)
 
 Fix 
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642509356/kitchen-nippers/user-test-1-fix_mu5ya1.png)
+![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/user-test-1-fix_rvtypf.png)
 
 
 ### Browser Testing
