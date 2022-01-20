@@ -237,7 +237,7 @@ a#news-link {
 }
 
 .separator-logo {
-    background: url('../images/spoon-and-fork.png') no-repeat center center;
+    background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419810/kitchen-nippers/spoon-and-fork_hvoods.png') no-repeat center center;
     height: 5em;
 }
 
