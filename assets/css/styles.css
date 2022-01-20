@@ -110,9 +110,9 @@ body {
 /*about us section */
 .about-container {
     display: grid;
-    width: 80%;
+    width: 85%;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 16rem 19rem;
+    grid-template-rows: 18rem 19rem;
     color: rgb(22, 57, 80);
     font-size: 1.4rem;
     padding: 1.5rem;
@@ -128,10 +128,11 @@ body {
 .about-text {
     padding: 1em;
     font-size: 1rem;
-    height: 15.5em;
+    height: auto;
     width: 14em;
     border-radius: 2em;
     border: rgba(22, 57, 80, 0.336) solid 2px;
+    align-self: center;
 }
 
 .about-image {
@@ -349,20 +350,31 @@ section h2 {
 /*For larger screens from 1380px wide and down*/
 @media screen and (max-width: 1380px) {
     #cook-image {
-        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419807/kitchen-nippers/parent-child-2_xpeh4e.png') no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702128/kitchen-nippers/parent-child-2_lrdtay.png') no-repeat center center;
     }
 }
+/*For larger screens from 1140px wide and down*/
+@media screen and (max-width: 1140px) {
+
+    .about-container {
+        width: 85%;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 18rem 19rem 18rem;
+    }
+}    
 
 /*For medium to small screens from 1060px wide and down*/
 @media screen and (max-width: 1060px) {
     #cook-image {
-        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-pour_qd3fqy.png') no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702129/kitchen-nippers/parent-child-pour_wjytfu.png') no-repeat center center;
     }
-
-    .about-container {
-        grid-template-columns: 1fr;
-        grid-template-rows: 16rem;
-    }
+}
+/*For medium to small screens from 720px wide and down*/
+@media screen and (max-width: 720px) {
+.about-container {
+    grid-template-columns: 1fr;
+    grid-template-rows: 16rem;
+}
 }
 
 /*For small screens from 590px wide and down*/
@@ -372,7 +384,7 @@ section h2 {
     }
 
     #cook-image {
-        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419810/kitchen-nippers/parent-child-rolling-small_ani1sx.png')no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702128/kitchen-nippers/parent-child-rolling-small_hj94uv.png')no-repeat center center;
         height: 24em;
     }
 
@@ -407,12 +419,13 @@ section h2 {
 
 /*For small screens from 425px wide and down*/
 @media screen and (max-width: 425px) {
+    
     .footer-list-item {
         font-size: 1.6rem;
     }
 
     #cook-image {
-        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642419809/kitchen-nippers/parent-child-mix-smaller_wuwuby.png')no-repeat center center;
+        background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702128/kitchen-nippers/parent-child-mix-smaller_epq52q.png')no-repeat center center;
         height: 15em;
     }
 
@@ -428,7 +441,6 @@ section h2 {
     .about-image {
         width: 6em;
         height: 6em;
-
         padding: 0;
     }
 
