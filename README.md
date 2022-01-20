@@ -4,7 +4,7 @@
 
 # Kitchen Nippers
 
-For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers which teaches children and their adults how to cook together. 
+For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers that teaches children and their adults how to cook together. 
 
 Please click [here](https://rockymiss.github.io/kitchennippers/) for link to the website 
 
@@ -16,7 +16,7 @@ The Design has been focused to **Desktop** first and **Responsive**
 ## Who is this website for and what does it do? 
 -----
 
-This is a website for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them. Kitchen Nippers is entirely online with a view to expanding in the future.   
+Kitchen Nippers is for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them. Kitchen Nippers is entirely online with a view to expanding in the future.  For the purpose of this Portfolio website Flatbread is the recipe the website is focusing on for January 2022. 
 
 -----
 ## User Experience
@@ -45,51 +45,45 @@ As a user it is important:
 ## UX 5 Planes 
 -----
 
-### Strategy Plane 
+### Strategy 
 
 The website is created to get adults and children cooking together using simple yet effective recipes.  Once a month an easy recipe is posted with clear instructions and an opportunity is there to sign-up to learn more and to get more recipes.   Only one recipe a month is posted.  It is hoped that users like the site, it's ease of use, the easy recipes posted and that they come back each month for a new recipe.
 
 The main aim is that the adults have very little to navigate to get to the instructions and the recipe, there is less to read, and the layout is simple so there are little to no distractions. 
 
-### Scope Plane 
+### Scope  
 
-Features include: 
+Features are set up to be simple, welcoming and easy to use.  The main existing features are: 
 
-- 4 different pages
-- Homepage with links, buttons and logo to other pages
-- Recipe/Instructions page 
-- Signup Page
-- Thank you page to confirm submission on form
+- Logo
+    - The Logo for Kitchen Nippers is located on all pages and will link back to the home page when clicked. 
+    
+- Navigation
+    - The navigation menu is located on all pages below the Logo.  It contains links to all of the pages on the website and they are fully responsive.   A text shadow is used so that the text will glow/shine on the page that is active to show the user which page they are currently on. 
+
+- Footer Social Media Links 
+    - The Footer is located at the bottom of every page and links to Facebook, Instagram, Youtube and Twitter.   The Instagram and Youtube links will link directly to the video on how to make Flatbread. 
+
+- Buttons
+    - There is a button to "Get Cooking on the Home Page and on the Sign-up page for ease of use.  
 
 ### Structure Plane
 
-The website consists of 3 main pages and 1 thank you page.  Each page has a specific purpose.  Pages and content are laid out so that the user can find their way around them easily. 
+There are 4 different pages on this website: 
 
-- Navigation and Footer 
+- Home page:  
+  This is the first page the user will see.  It's designed to give a clear direction of what the website is about.  An overlay is placed over the main image with the words "Learn to Cook with Kitchen Nippers".  The main image was chosen as it was primarily a parent cooking happily with their child which gives a very good idea of what the site is about.  Beneath the image there is an about section telling the user a little bit about Kitchen Nippers.  A "Get Cooking" button is featured at the bottom of the page which will bring the user directly to the recipe page.      
 
-    the navigation and footer are the same for every page.  
-    
-    The navigation links help the user to navigate easily when on any page.  A text shadow is used so that the text will glow/shine on the page that is active to show the user which page they are currently on.  The logo at the top of each page can be used to navigate back to the homepage.   Navigation works on all screens from desktop to mobile.  
+- Recipe Page:  
+  This page lets the user know about the recipe for the month which is Flatbread for January 2022.  Clear instructions are given, a list of ingredients and tools required and an instructional video on how to make Flatbread.  In my experience recipe pages are sometimes complex and full of information users do not want to know about.  The recipe page is designed to get to the point quickly as the users being targetted are parents who generally have very little time to read about the history of Flatbread or the lives of the people showing you how to cook it! 
 
-    The footer is one row which has links to four social media apps.  Facebook, Twitter, Instagram and YouTube.
+- The Sign-up page:  
+  The Sign-up page allows the user to sign-up to monthly newsletters which will give them access to past recipes and hints and tips on cooking.  It is a straightforward form asking for the users name and email address.   **It is important to note that for the purpose of this Portfolio that the sign-up page is a dummy page and the action 'GET' was used instead of 'POST'.**  
 
-- Home Page
+- Thank you page:  
+  Once the user submits the form on the Sign-up page they will be redirected to this page thanking them.  It is beneficial for users to know if they have completed forms correctly and this will give them an indication that they have done.  
 
-    The homepage consists of a main hero image and an overlap text telling the user in short what the website is about i.e. "Learn to Cook with Kitchen Nippers".  Beneath the image is an about section with images telling the user a little bit more about Kitchen Nippers and what the site consists of and there is a text link to the sign-up page.  There is also a 'Get Cooking' button to bring the user directly to the recipe page. 
-
-- Recipe Page
-
-    The recipe page is clearly laid out with information about the recipe, clear ingredients and tools needed and clear instructions.  At the bottom of the page there is a video showing the user how to make the recipe.  The video can be either viewed directly on this page or a link to YouTube and Instagram on the footer links.  
-
-- Sign-up Page 
-
-    The Sign-up page allows the user to sign-up to monthly newsletters which will give them access to past recipes and hints and tips on cooking.   **It is important to note that for the purpose of this Portfolio that the sign-up page is a dummy page and the action 'GET' was used instead of 'POST'.**  Once submitted the action will link to a thank you page.  Linking to a thank you page shows the user that filling out the form was completed.  
-
-- Thank you Page 
-
-    The thank you page is laid out like the other pages with the logo, navigation and footer the same.  The thank you page lets the user know the form has been completed.   The user can either click the navigation links, logo or use the button to return to the home page.  
-
-### Skeleton Plane
+### Skeleton 
 
 The design was focused to desktop first but can be used on smaller devices such as tablets and mobiles too.  Wireframes are done using balsamiq:  
 
@@ -110,90 +104,79 @@ The design was focused to desktop first but can be used on smaller devices such 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642442464/kitchen-nippers/thankyou.html_wucsey.png)
 
 
-### Surface Plane 
+### Surface  
 
 ##### Colors 
 
-The background of the entire website is white.
+The following palette of colors were chosen as they were clean, welcoming and easy to read: 
 
-For the navigation bar, the footer bar and buttons the following are used: 
+![alt text](put palette here)
 
-- rgb(22, 57, 80) / Prussia Blue for the background
-- rgb(255, 255, 255) / White for text
-- rgb(172, 188, 195) / Pewter Blue for hover over text
-- 0 0 0.6rem #fff text shadow to show the active page
-
-
-For the main body with text the following are used: 
-
-- rgb(22, 57, 80) / Prussia Blue is the main body text color
-- rgba(172, 188, 195, 0.26) / Pewter Blue (slight transparency) is used for the background of the text.
-- rgba(22, 57, 80, 0.336) / Prussia Blue (slight trnsparency) for the border    around text on the index page. 
-- Photos are choosen to compliment the use of these colors.
+#/rgb(22,57,80) - for navigation menu, footer menu and buttons. 
+#/rgb(167,182,199.08) - for overlay circle  
+#/rgb(167,182,199) - for hover over links 
+#/rgb(22242,244,248) - for background to text sections 
+#/rgb(255) - for website background and text on navigation, footer and buttons.  
 
 ##### Typography
 
 For the logo the font **Anton** was used, however the logo was created externally using Canva.com.
 
-Throughout the website the font **Poppins** was used.   This font was obtained using Google Fonts.   
+Throughout the website the font **Poppins** was used.   This font was obtained using Google Fonts and differnt sizes were used.  These fonts fall back to sans-serif if they fail to load.  Poppins was chosen because it has a professional look and is clean and easy to read.    
 
-For the video on YouTube the font **Bebas** was used.  **AmaticSC** was used on the original Instagram video in May 2020.
+For the video on YouTube the font **Bebas** was used.  This was chosen particulary because it was easy to read. 
+**AmaticSC** was used on the original Instagram video in May 2020.
 
 -----
-## Features 
+## Future Implementation 
 -----
 
-### Existing Features 
+- A fully working Newsletter sending out past recipes with hints and tips for cooking with children. 
 
-- created in HTML5 and CSS3
-- 4 different pages
-- homepage
-- video showing how to make the recipe
-- sign-up form 
-- thank-you page to confirm form submission
+- A shop/online school with live tutorials for specilised cooking classes and equipment
 
-### Features for future implementation
+- A monthly blog about Kitchen Nippers. 
 
-- archive page for past recipes
-- shop for specilised cooking classes and equipment
-- sign-up forms to work properly by storing data and sending newsletter
-- blog about Kitchen Nippers 
-- cookie pop up for GDPR
+- Cookie pop up for GDPR
+
 - All social media links will link to a page for Kitchen Nippers rather than just the sign-in page.  
+
+- Testimonials from users about the service. 
 
 -----
 ## Technologies Used 
 -----
 
-- HTML5 for markup
-- CSS3 for style 
-- Cloudinary.com to store images
-- Font Awesome for icons
-- Google Fonts for font
-- Git for version control 
-- GibHub for keeping the files and documents and deployment of the website
-- Balsamiq to create wireframes
+- HTML5 to provide content and structure to the website.
+- CSS3 to provide style for the website. 
+- Coolors.co to select colors for the website that would work well together.  
+- Cloudinary.com to store images for the website.
+- Font Awesome for the social media icons on the footer. 
+- Google Fonts for font.
+- Gitpod to create and edit the website. 
+- GibHub for hosting files and deployment of the website.
+- Balsamiq to create wireframes.
 
 -----
 ## Resources 
 -----
 
-- Code Institute course materials, tutor and mentor support 
-- Code Institute Slack Community 
-- Love Running walk-through on Code Insitute
-- Form Structure was used from the Love Running challenge
-- Youtube - https://www.youtube.com/watch?v=k32voqQhODc (for flexbox)
-- Youtube - https://www.youtube.com/watch?v=pMVO1OPfVJ8&t=0s (for grid)
-- W3schools 
-- Pexels.com for images 
-    - Gustavo Fring - Main hero image woman and child (index page)
-    - Jill Wellington - Shamrock biscuit image (index page)
-    - Jasmin - Star and Jam cookies image (index page)
-    - Drake Nicolls - bun tray and other tools image (index page)
-    - Michael Burrows - bread in a frying pan (recipe page)
-- canva.com for logo
+- Code Institute course materials, tutor and mentor support.
+- Code Institute Slack Community.
+- Love Running walk-through on Code Insitute.
+- Form Structure was used from the Love Running challenge. 
+- Youtube - https://www.youtube.com/watch?v=k32voqQhODc (for flexbox).
+- Youtube - https://www.youtube.com/watch?v=pMVO1OPfVJ8&t=0s (for grid).
+- W3schools. 
+- Pexels.com for images. 
+    - Gustavo Fring - Main hero image woman and child (index page).
+    - Jill Wellington - Shamrock biscuit image (index page).
+    - Jasmin - Star and Jam cookies image (index page).
+    - Drake Nicolls - bun tray and other tools image (index page).
+    - Michael Burrows - bread in a frying pan (recipe page).
+- canva.com for logo and spoon and fork seperator on the recipe page. 
 - Youtube - video on recipe page
-- TinyPNG - to compress all images
+- TinyPNG - to compress images
 - Inshot Video Editor to create video on recipe page and YouTube video link
     - the video was created by the creator (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.  Click [here](https://youtu.be/B037WcSqDog) to view video.  
 - Music credits on Video: 
@@ -206,17 +189,21 @@ For the video on YouTube the font **Bebas** was used.  **AmaticSC** was used on 
 
 ### Local Testing
 
-Testing of all buttons, links, functionality and grammer on the website has been carried out.  Some links to the video needed to be updated after testing and the facebook page was not opening as local testing showed.  The link used facebook.ie instead of facebook.com so this was changed to fix the issue.  Other minor issues such as centering came up but were fixed.  The video proved to be a bigger issue which is discussed further below. 
+Testing of all buttons, links, functionality and grammer on the website has been carried out.  Some links to the video needed to be updated after testing and the facebook page was not opening as local testing showed.  The link used facebook.ie instead of facebook.com so this was changed to fix the issue.  Other minor issues such as centering came up but were fixed immediately.  
 
 ### User Testing
 
-The website was sent to a group of approximately 20 people, most of which were parents.  As a result grammatical errors came up and were fixed.  Users found the website very functional and easy to navigate.  
+The website was sent to a group of approximately 20 people, most of which were parents.  As a result grammatical errors came up and were fixed.  Users found the website very functional and easy to navigate.  By doing this user test I was able to check the website on the following devices: 
 
-### Browser Testing
+- Huawei P30
+- IPhone 7s
+- IPhone 11
+- Iphone 12 Pro max
+- Redmi note 9
+- Samsung A21.  
 
-The Website has been tested on Google Chrome, Microsoft Edge, Safari and Opera.   On all browsers testing was as expected and functionality and responsiveness was good. 
+This testing proved very helpful with responsivness errors.  Issues arose with iphone devices, except the pro max, where text was hidden in the about section of the index page.  This also occured on the Redmi note 9.  This issue, as shown in the images below, was fixed by adjusting the height of the sections in question.     
 
-Mobile Testing: Huawei P30, IPhone 7s, IPhone 11, Iphone 12 Pro max, Redmi note 9 and various Samsung mobile devices.  Issues arose with iphone devices, except the pro max, where text was hidden in the about section of the index page.  This also occured on the Redmi note 9.  This issue, as shown in the images below, was fixed by adjusting the height of the sections in question.     
 
 Error
 
@@ -227,17 +214,22 @@ Fix
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642509356/kitchen-nippers/user-test-1-fix_mu5ya1.png)
 
 
+### Browser Testing
+
+The Website has been tested on Google Chrome, Microsoft Edge, Safari and Opera.   On all browsers testing was as expected and functionality and responsiveness was good. 
+
+
 ### Validators 
 
 The website was tested using Jigsaw W3C validation.  This showed up minor syntax errors and they were fixed accordingly.  Once issues were dealt with the validator showed no errors in either html or css. 
 
 ### Responsiveness 
 
-To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tablet sizes were tested.  The website responded well.
+To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tablet sizes were tested.  The website responded well.   
 
 #### Issues 
 
-The main issue was the embedded video from Instagram.  Instagram uses alot of styles which seemed to affect my own styling.  I searched for a solution and noted that others online seemed to have the same issues with Instagram videos.  After changes to some of the styling it helped slightly but not sufficient enought for responsiveness.  As mentioned previously the video was created in May 2020.  The original video had been lost and as Instagram do not allow downloading of videos I decided to re-create the video.  As in May 2020 I used Inshot to edit the video.  Fortunately I had elements of the video so I could easily re-create the video using Inshot again.  I then posted the video to Youtube where the styling is considerably less and I could manipulate it easily to fit into my code.  Re-creating the video also meant that I could change the text on the video to be better read by the visually impaired.  I could have added the video to my directory however I felt it better to have the video on different platforms.  
+The main issue was the embedded video from Instagram.  Instagram uses alot of styles which seemed to affect my own styling.  I searched for a solution and noted that others online seemed to have the same issues with Instagram videos.  After changes to some of the styling it helped slightly but not sufficient enought for responsiveness.  As mentioned previously the video was created in May 2020.  The original video had been lost and as Instagram do not allow downloading of videos I decided to re-create the video.  As in May 2020 I used Inshot to edit the video.  Fortunately I had elements of the video so I could easily re-create the video using Inshot again.  I then posted the video to Youtube where the styling is considerably less and I could manipulate it easily to fit into my code.  Re-creating the video also meant that I could change the text on the video to be better read by the visually impaired.  I felt it was a good idea for future features to have the video on different platforms rather than in the directory.  
 
 -----
 ## Version Control
@@ -267,12 +259,14 @@ I used GitHub to deploy the site by:
 - Scroll down to GitHub pages and open that page. 
 - Select main branch and click save.
 
-The website is published on GitHub and the link is provided in that section. 
+The website is published on GitHub and the link is provided in that section.
 
 -----
-## Kitchen Nippers 
+## Acknowledgments
 -----
 
-As a first project I chose Kitchen Nippers because of my love of cooking with my children.  I also wanted to create a site that was simple for parents to follow and use easy recipes that would bring people back to the website each month. I would like to think that I can return to Kitchen Nippers one day and expand further on it and implement the future features mentioned above.    
+The website could not be completed without the help and support from my mentor Spencer Barriball, the Slack Community, my cohort facilitator Kasia and msletb class.  
+
+Rachel Rock January 2022
 
 
