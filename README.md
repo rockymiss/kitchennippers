@@ -49,42 +49,41 @@ The Design has been focused to **Desktop** first and **Responsive**
 
 -----
 ## Who is this website for and what does it do? 
------
 
-Kitchen Nippers is for adults and children that teaches them how to cook together using simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them. Kitchen Nippers is entirely online with a view to expanding in the future.  For the purpose of this Portfolio Flatbread is the recipe the website is focusing on for January 2022. 
+Kitchen Nippers is for adults and children with a view to getting them cooking together.  It gives them simple recipes that everyone will eat and are easy to make.  It's targeted at parents who want to spend more time with their children in the kitchen but may not have a lot of time to go through difficult recipes with them. Kitchen Nippers is entirely online with a view to expanding in the future.  For the purpose of this Portfolio Flatbread is the recipe that the website is focusing on for January 2022. 
 
 -----
 ## User Experience
------
+
 
 ### From a User's Perspective
 As a user it is important: 
 
-1. that it is easy to navigate the site.
-2. to learn an easy recipe to make with their child.
-3. that the website doesn't require a lot of time to find what they want.
-4. that the instructions are clear.
-5. that everything that is needed is listed.
-6. to find out more about the company and other recipes they may have.
+1. That it is easy to navigate the site.
+2. To learn an easy recipe to make with their child.
+3. That the website doesn't require a lot of time to find what they want.
+4. That the instructions are clear.
+5. That everything needed is listed.
+6. To find out more about the company and other recipes they may have.
 
 ### Users Fulfilment
 
 1. In order to guide the user to what they want the navigation, footer and content are laid out in a clear way.
-2. the user can find the recipe that is suited to a level for a child or beginner-adults learning how to cook.
-3. The recipe can be found on all pages through navigation links or buttons.  As there is only one recipe there is no need to search.
+2. the user can find the recipe that is suited to a level for a child or and adult that is also learning how to cook.
+3. The recipe can be found on all pages through navigation links or buttons.  As there is only one recipe per month it is very easy to find it.
 4. Clear instructions are laid out in the recipe page together with a video for assistance.
-5. Everything including the cooking implements are included in the recipe section.
+5. Everything including the cooking implements are listed so the users know what they need.
 6. The idea is that the user can sign up to a monthly newstletter which will give them access to past and future recipes and more tips to learn how to cook.
 
 -----
 ## UX 
------
+
 
 ### Strategy 
 
 The website is created to get adults and children cooking together using simple yet effective recipes.  Once a month an easy recipe is posted with clear instructions and an opportunity is there to sign-up to learn more and to get more recipes.   Only one recipe a month is posted.  It is hoped that users like the site, it's ease of use, the easy recipes posted and that they come back each month for a new recipe.
 
-The main aim is that the adults have very little to navigate to get to the instructions and the recipe, there is less to read, and the layout is simple so there are little to no distractions. 
+The main aim is that the adults have very little to do to navigate and find the instructions and the recipe.  There is less to read and the layout is simple so there are little to no distractions. 
 
 ### Scope  
 
@@ -97,7 +96,7 @@ Features are set up to be simple, welcoming and easy to use.  The main existing 
     - The navigation menu is located on all pages below the Logo.  It contains links to all of the pages on the website and they are fully responsive.   A text shadow is used so that the text will glow/shine on the page that is active to show the user which page they are currently on. 
 
 - Footer Social Media Links 
-    - The Footer is located at the bottom of every page and links to Facebook, Instagram, Youtube and Twitter.   The Instagram and Youtube links will link directly to the video on how to make Flatbread. 
+    - The Footer is located at the bottom of every page and there are four icons linked to Facebook, Instagram, Youtube and Twitter.   The Instagram and Youtube links will link directly to the video on how to make Flatbread. 
 
 - Buttons
     - There is a button to "Get Cooking on the Home Page and on the Sign-up page for ease of use.  
@@ -107,7 +106,7 @@ Features are set up to be simple, welcoming and easy to use.  The main existing 
 There are 4 different pages on this website: 
 
 - Home page:  
-  This is the first page the user will see.  It's designed to give a clear direction of what the website is about.  An overlay is placed over the main image with the words "Learn to Cook with Kitchen Nippers".  The main image was chosen as it was primarily a parent cooking happily with their child which gives a very good idea of what the site is about.  Beneath the image there is an about section telling the user a little bit about Kitchen Nippers.  A "Get Cooking" button is featured at the bottom of the page which will bring the user directly to the recipe page.      
+  This is the first page the user will see.  It's designed to give a clear direction of what the website is about.  An overlay is placed over the main image with the words "Learn to Cook with Kitchen Nippers".  The main image was chosen as it was primarily a parent cooking happily with their child which gives a very good visual impression of what the site is about.  Beneath the image there is an about section telling the user a little bit about Kitchen Nippers.  A "Get Cooking" button is featured at the bottom of the page which will bring the user directly to the recipe page.      
 
 - Recipe Page:  
   This page lets the user know about the recipe for the month which is Flatbread for January 2022.  Clear instructions are given, a list of ingredients and tools required and an instructional video on how to make Flatbread.  Recipe pages on websites can be sometimes complex and full of information users do not want to know about.  The recipe page is designed to get to the point quickly as the users being targetted are parents who generally have very little time to read about the history of Flatbread or the lives of the people showing you how to cook it! 
@@ -116,7 +115,7 @@ There are 4 different pages on this website:
   The Sign-up page allows the user to sign-up to monthly newsletters which will give them access to past recipes and hints and tips on cooking.  It is a straightforward form asking for the users name and email address.   **It is important to note that for the purpose of this Portfolio that the sign-up page is a dummy page and the action 'GET' was used instead of 'POST'.**  
 
 - Thank you page:  
-  Once the user submits the form on the Sign-up page they will be redirected to this page thanking them.  It is beneficial for users to know if they have completed forms correctly and this will give them an indication that they have filled out the form correctly.  
+  Once the user submits the form on the Sign-up page they will be redirected to this page thanking them.  It is beneficial for users to know if they have completed forms correctly.  This page will give them an indication that they have filled out the form in the right way.  
 
 ### Skeleton 
 
@@ -145,7 +144,7 @@ The design was focused to desktop first but can be used on smaller devices such 
 
 The following palette of colors were chosen as they were clean, welcoming and easy to read: 
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/color-palette_ihhogz.png)
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/color-palette_ihhogz.png"></p>
 
 #/rgb(22,57,80) - for navigation menu, footer menu and buttons. 
 #/rgb(167,182,199.08) - for overlay circle  
@@ -183,17 +182,17 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 
 - HTML5 to provide content and structure to the website.
 - CSS3 to provide style for the website. 
-- Coolors.co to select colors for the website that would work well together.  
-- Cloudinary.com to store images for the website.
-- Font Awesome for the social media icons on the footer. 
-- Google Fonts for font.
+- [Coolors.co](https://coolors.co/) to select colors for the website that   would work well together.  
+- [Cloudinary.com](https://www.cloudinary.com/) to store images for the   website.
+- [Font Awesome](Font Awesomehttps://fontawesome.com) for the social media icons on the footer. 
+- [Google Fonts](https://fonts.google.com/) for font.
 - Gitpod to create and edit the website. 
 - GibHub for hosting files and deployment of the website.
 - Balsamiq to create wireframes.
 - Inshot Video Editor to create video on recipe page and YouTube video link
     - the video was created by me (youtube username: Rachel McDermott/Instagram username: rockymiss)  in May 2020.  The recipe is my own and has been adjusted and is a commonly used recipe with many variations.  The video is also on Instagram so the link on the footer from Instagram will link directly to the video.  The Youtube link also links directly to the video.  Click [here](https://youtu.be/B037WcSqDog) to view video. 
-- canva.com for logo and spoon and fork seperator on the recipe page.  
-- TinyPNG - to compress images
+- [Canva.com](https://www.canva.com/) for logo and spoon and fork seperator on the recipe page.  
+- [TinyPNG](https://tinypng.com/) - to compress images
 
 <details open>
 <summary>Tinypng image</summary>
@@ -210,10 +209,10 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 - Code Institute Slack Community.
 - Love Running walk-through on Code Insitute.
 - Form Structure was used from the Love Running challenge. 
-- Youtube - https://www.youtube.com/watch?v=k32voqQhODc (for flexbox).
-- Youtube - https://www.youtube.com/watch?v=pMVO1OPfVJ8&t=0s (for grid).
-- W3schools. 
-- Pexels.com for images. 
+- [Flexbox tutorial Youtube](https://www.youtube.com/watch?v=k32voqQhODc).
+- [Grid tutorial Youtube](https://www.youtube.com/watch?v=pMVO1OPfVJ8&t=0s)
+- [W3schools](https://www.w3schools.com/) 
+- [Pexels.com](https://www.pexels.com/) for images. 
     - Gustavo Fring - Main hero image woman and child (index page).
     - Jill Wellington - Shamrock biscuit image (index page).
     - Jasmin - Star and Jam cookies image (index page).
@@ -255,6 +254,7 @@ Manual testing of all buttons, links, functionality and grammer on the website h
   - That the ingredients are listed fully, are correct, aligned to the center and are fully responsive. 
   - That the Instructions are listed correctly, aligned to the left and fully responsive. 
   - That the video is aligned to the center and fully responsive. 
+  - That the video does not play automatically when the page opens.  It is control only by the user. 
 - Sign-up page:
   - That all elements on the form are working correctly. 
   - That the required information is needed to submit the form and a warning message appears. 
