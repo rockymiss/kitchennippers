@@ -326,7 +326,7 @@ The main issue was an embedded video from Instagram.  Instagram uses alot of sty
 
 ### Issues Unresolved
 
-After running a test using webpagetest.org an issue appeared in relation to cross-site scripting.  After further research on this I understood it to be an issue in relation to javascript and script used in the code for icons from font awesome.  While I understand the importantance of cross-site scripting I felt that for the purposes of this portfolio it was not necessary to fix and that I would be learning more about this in the next section of the course.   
+After running a test using webpagetest.org an issue appeared in relation to cross-site scripting.  After further research on this I understood it to be an issue in relation to javascript and script used in the code for icons from font awesome.  While I understand the importantance of cross-site scripting I felt that for the purposes of this portfolio it was not necessary to fix and that I would be learning more about this in the next section of the course.  I did attempt to get a cdn link from fontawesome however this required a pro account, which I do not have.     
 
 ![alt](https://res.cloudinary.com/rockymiss/image/upload/v1642765790/kitchen-nippers/webpage-security_bynvsi.png)
 
