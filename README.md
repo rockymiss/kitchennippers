@@ -278,6 +278,12 @@ To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tab
 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765626/kitchen-nippers/wepage-test_el1zl1.png)
 
+### Color Contrast Testing 
+
+I used [a11y](https://https://color.a11y.com/) to test the color contrast on the website which produced no issues. 
+
+![alt](https://res.cloudinary.com/rockymiss/image/upload/v1642768376/kitchen-nippers/color-contrast-test_ijpwic.png)
+
 
 ### Issues/Bugs Fixed 
 
