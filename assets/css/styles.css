@@ -414,9 +414,7 @@ section h2 {
 
     .video-container {
         width: 100%;
-    }
 }
-
 /*For screens from 425px wide and down*/
 @media screen and (max-width: 425px) {
 
