@@ -1,49 +1,13 @@
  <p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702127/kitchen-nippers/kitchen-nippers-logo_fevkgk.png"></p>
 
 
-# Table of Contents
-
-1. [Kitchen Nippers](#kitchen-nippers)
-    -  [Who is this for?](#who-is-this-website-for-and-what-does-it-do)
-2. [User Experience](#user-experience)
-    -  [Users Perspective](#from-a-users-perspective)
-    -  [Users Fulfilment](#users-fulfilment)
-3. [UX](#ux)
-    -  [Strategy](#strategy)
-    -  [Scope](#scope)
-    -  [Structure](#structure-plane)
-    -  [Skeleton](#skeleton)
-    -  [Surface](#surface)
-        - [Colors](#colors)
-        - [Typography](#typography)
-    -  [Future Implementation](#future-implementation)
-    -  [Technologies Used](#technologies-used)
-    -  [Resources](#resources)
-    -  [Testing](#testing)
-        -  [Local Testing](#local-testing)
-        -  [User Testing](#user-testing)
-        -  [Browser Testing](#browser-testing)
-        -  [Validators](#validators)
-        -  [Responsiveness](#responsiveness)
-        -  [Lighthouse](#result-chrome-desktop-lighthouse)
-        -  [Webpagetest](#result-webpagetest)
-        -  [Color Contrast Test](#color-contrast-testing)
-        -  [Issues/Bugs Fixed](#issuesbugs-fixed)
-        -  [Issues Unresolved](#issues-unresolved)
-    -  [Version Control](#version-control)
-        -  [Git & GitHub](#git-and-github)
-        -  [Deployment](#deployment)
-        -  [Clone](#clone:)
-        -  [Fork](#fork:)
-    -  [Acknowledgements](#acknowledegments)
-
-        
-    
 # Kitchen Nippers
 
 For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers that teaches children and their adults how to cook together. 
 
-Please click [here](https://rockymiss.github.io/kitchennippers/) for link to the website 
+Link to the deployed website is [here](https://rockymiss.github.io/kitchennippers/) 
+
+Link to the repository is [here](https://github.com/rockymiss/kitchennippers) 
 
 The Design has been focused to **Desktop** first and **Responsive**
 
