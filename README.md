@@ -1,7 +1,42 @@
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702127/kitchen-nippers/kitchen-nippers-logo_fevkgk.png)
+ <p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702127/kitchen-nippers/kitchen-nippers-logo_fevkgk.png"></p>
 
 
+# Table of Contents
 
+1. [Kitchen Nippers](#kitchen-nippers)
+    -  [Who is this for?](#who-is-this-website-for-and-what-does-it-do)
+2. [User Experience](#user-experience)
+    -  [Users Perspective](#from-a-users-perspective)
+    -  [Users Fulfilment](#users-fulfilment)
+3. [UX](#ux)
+    -  [Strategy](#strategy)
+    -  [Scope](#scope)
+    -  [Structure](#structure-plane)
+    -  [Skeleton](#skeleton)
+    -  [Surface](#surface)
+        - [Colors](#colors)
+        - [Typography](#typography)
+    -  [Future Implementation](#future-implementation)
+    -  [Technologies Used](#technologies-used)
+    -  [Resources](#resources)
+    -  [Testing](#testing)
+        -  [Local Testing](#local-testing)
+        -  [User Testing](#user-testing)
+        -  [Browser Testing](#browser-testing)
+        -  [Validators](#validators)
+        -  [Responsiveness](#responsiveness)
+        -  [Lighthouse](#result-chrome-desktop-lighthouse)
+        -  [Webpagetest](#result-webpagetest)
+        -  [Color Contrast Test](#color-contrast-testing)
+        -  [Issues/Bugs Fixed](#issuesbugs-fixed)
+        -  [Issues Unresolved](#issues-unresolved)
+    -  [Version Control](#version-control)
+        -  [Git & GitHub](#git-and-github)
+        -  [Deployment](#deployment)
+    -  [Acknowledgements](#acknowledegments)
+
+        
+    
 # Kitchen Nippers
 
 For my **Portfolio 1 Project** on the **Code Institute's Diploma in Software Development (E-commerce Applications)** course I have created a fictional website called Kitchen Nippers that teaches children and their adults how to cook together. 
@@ -266,15 +301,15 @@ The website was tested using Jigsaw W3C validation.  This showed up minor syntax
 
 To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tablet sizes were tested.  The website responded well.   
 
-###  Result - Chrome Desktop Lighthouse 
+###  Result: Chrome Desktop Lighthouse 
 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765289/kitchen-nippers/lighthouse-test-1_xvyl02.png)
 
-### Result - Chrome Mobile Lighthouse 
+### Result: Chrome Mobile Lighthouse 
 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765289/kitchen-nippers/lighthouse-test_oub3s8.png)
 
-### Result - Webpagetest.org
+### Result: Webpagetest
 
 ![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765626/kitchen-nippers/wepage-test_el1zl1.png)
 
@@ -299,7 +334,7 @@ After running a test using webpagetest.org an issue appeared in relation to cros
 ## Version Control
 -----
 
-### Git & GitHub 
+### Git and GitHub 
 
 Local repository and IDE used: GitPod
 Remote repository used: GitHub
@@ -326,7 +361,7 @@ I used GitHub to deploy the site by:
 
 
 -----
-## Acknowledgments
+## Acknowledegments
 -----
 
 The website could not be completed without the help and support from my mentor Spencer Barriball, the Slack Community, my cohort facilitator Kasia and msletb class.  
