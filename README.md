@@ -128,7 +128,6 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 
 -----
 ## Future Implementation 
------
 
 - A Newsletter sending out past recipes with hints and tips for cooking with children. 
 
@@ -144,7 +143,7 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 
 -----
 ## Technologies Used 
------
+
 
 - HTML5 to provide content and structure to the website.
 - CSS3 provides styles for the website. 
@@ -169,7 +168,7 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 
 -----
 ## Resources 
------
+
 
 - Code Institute course materials, tutor and mentor support.
 - Code Institute Slack Community.
@@ -436,7 +435,6 @@ Steps followed:
 
 -----
 ## Acknowledegments
------
 
 The website could not be completed without the help and support from my mentor Spencer Barriball, the Slack Community, my cohort facilitator Kasia and msletb class.  
 
