@@ -15,86 +15,89 @@
 <body>
     <!--logo-->
     <header>
-        <a href="index.html"><div class="logo">
-        </div></a>
+        <a href="index.html">
+            <div class="logo">
+            </div>
+        </a>
         <!--navigation start-->
-    <nav id="nav-area">
-        <ul class="nav-list">
-            <li>
-                <a href="index.html">
-                    <h2>Home</h2>
-                </a>
-            </li>
-             <li>
-                <a href="recipe.html">
-                    <h2>Recipe</h2>
-                </a>
-            </li>
-            <li>
-                <a href="signup.html" class="active">
-                    <h2>Sign-up</h2>
-                </a>
-            </li>
-        </ul>
-    </nav>
-    <!--navigation end-->
-    <!--Form Start, rather than using method POST the form uses GET and opens a thank you page to let the user think it has been submitted-->
-    <section>
-        <form class="signup-form" method="GET" action="./thank-you.html"> 
-            <h2 class ="heading-form">Sign-up to our Monthly Newsletter</h2>
+        <nav id="nav-area">
+            <ul class="nav-list">
+                <li>
+                    <a href="index.html">
+                        <h2>Home</h2>
+                    </a>
+                </li>
+                <li>
+                    <a href="recipe.html">
+                        <h2>Recipe</h2>
+                    </a>
+                </li>
+                <li>
+                    <a href="signup.html" class="active">
+                        <h2>Sign-up</h2>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <!--navigation end-->
+        <!--Form Start, rather than using method POST the form uses GET and opens a thank you page to let the user think it has been submitted-->
+        <section>
+            <form class="signup-form" method="GET" action="./thank-you.html">
+                <h2 class="heading-form">Sign-up to our Monthly Newsletter</h2>
                 <div class="form-inside">
                     <div class="form-row">
-                    <label for="fname">First Name: </label>
-                    <input id="fname" class="form-text-input" name="first_name" type="text" required> 
+                        <label for="fname">First Name: </label>
+                        <input id="fname" class="form-text-input" name="first_name" type="text" required>
                     </div>
 
                     <div class="form-row">
-                    <label for="lname">Last Name: </label>
-                    <input id="lname" class="form-text-input" name="last_name" type="text" required> 
+                        <label for="lname">Last Name: </label>
+                        <input id="lname" class="form-text-input" name="last_name" type="text" required>
                     </div>
 
                     <div class="form-row">
-                    <label for="email">Email Address: </label>
-                    <input id="email" class="form-text-input" name="email_address" type="email" required>
+                        <label for="email">Email Address: </label>
+                        <input id="email" class="form-text-input" name="email_address" type="email" required>
                     </div>
                 </div>
-                    <div class="submit-button">
+                <div class="submit-button">
                     <input class="submit-inside" type="submit" value="Sign-up">
-                    </div>
-        </form>
-    </section>
-    <!--Form end-->  
-    <!--Footer start-->
-    <footer>
-        <ul class="social-media">
-            <li class="footer-list-item">
-                <a href="https://www.facebook.com" target="_blank" rel="noopener"
-                    aria-label="Click here to visit our facebook page which will open in a new tab">
-                    <i class="fab fa-facebook-square" aria-hidden="true"></i>
-                </a>
-            </li>
-            <li class="footer-list-item">
-                <a href="https://www.instagram.com/tv/B_sThXIJej0/" target="_blank" rel="noopener"
-                    aria-label="Click here to visit our Instagram page which will open in a new tab">
-                    <i class="fab fa-instagram-square" aria-hidden="true"></i>
-                </a>
-            </li>
-            <li class="footer-list-item">
-                <a href="https://twitter.com/" target="_blank" rel="noopener"
-                    aria-label="Click here to visit our Twitter page which will open in a new tab">
-                    <i class="fab fa-twitter-square" aria-hidden="true"></i>
-                </a>
-            </li>
-            <li class="footer-list-item">
-                <a href="https://youtu.be/B037WcSqDog" target="_blank" rel="noopener"
-                    aria-label="Click here to visit our YouTube channel which will open in a new tab">
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
-                </a>
-            </li>
-        </ul>
-    </footer>
-    <!--footer end--> 
-    <!--font awesome script for social media icons-->
-    <script src="https://kit.fontawesome.com/0037301c3f.js" crossorigin="anonymous"></script>
+                </div>
+            </form>
+        </section>
+        <!--Form end-->
+        <!--Footer start-->
+        <footer>
+            <ul class="social-media">
+                <li class="footer-list-item">
+                    <a href="https://www.facebook.com" target="_blank" rel="noopener"
+                        aria-label="Click here to visit our facebook page which will open in a new tab">
+                        <i class="fab fa-facebook-square" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="footer-list-item">
+                    <a href="https://www.instagram.com/tv/B_sThXIJej0/" target="_blank" rel="noopener"
+                        aria-label="Click here to visit our Instagram page which will open in a new tab">
+                        <i class="fab fa-instagram-square" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="footer-list-item">
+                    <a href="https://twitter.com/" target="_blank" rel="noopener"
+                        aria-label="Click here to visit our Twitter page which will open in a new tab">
+                        <i class="fab fa-twitter-square" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li class="footer-list-item">
+                    <a href="https://youtu.be/B037WcSqDog" target="_blank" rel="noopener"
+                        aria-label="Click here to visit our YouTube channel which will open in a new tab">
+                        <i class="fab fa-youtube" aria-hidden="true"></i>
+                    </a>
+                </li>
+            </ul>
+        </footer>
+        <!--footer end-->
+        <!--font awesome script for social media icons-->
+        <script src="https://kit.fontawesome.com/0037301c3f.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
