@@ -370,25 +370,48 @@ Steps followed:
     - Select main branch and click save.
     - The page should automatically refresh and the deployed link is provided.
 
+<details open>
+<summary>Deployment Preview Image</summary>
+<br>
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642789616/kitchen-nippers/deployed-site_fgqlhc.png"></p>
+
+</details>
+    
+
   #### Fork: 
         
-    A copy can be made of a GitHub repository can be done by forking the repository.  The copy can then be viewed and changed without affeting the original repository. 
+    A copy can be made of a repository by forking the repository.  The copy can then be viewed and changed without affecting the original repository. 
     
-      - From your list of repositories select the repository you want to deploy.
-      - Click on settings. 
-      - Scroll down to GitHub pages and open Github pages. 
-      - Select main branch and click save.
-      - The page should automatically refresh and the deployed link is provided.
+      - From your list of repositories select the repository you want to fork.
+      - On the top of the page to the right had side you will see a fork image.  Click on the button to create a copy. 
+
+      
+  <details open>
+<summary>Fork Preview Image</summary>
+<br>
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642789173/kitchen-nippers/fork-preview_xraeo2.png"></p>
+
+</details>
+
 
   #### Clone: 
         
     Cloning this project from GitHub can be done by following these steps: 
     
       - From your list of repositories select the repository you want to deploy.
-      - Click on settings. 
-      - Scroll down to GitHub pages and open Github pages. 
-      - Select main branch and click save.
-      - The page should automatically refresh and the deployed link is provided.
+      - Click on the code tabe. 
+      - Click on the clipboard icon to copy the URL.  
+      - Open Git Bash in your IDE. 
+      - Change the current working directory to the location you want to place the clone. 
+      - Type git clone and paste the copied URL.  
+      - Press enter for the clone to be created. .
+
+  <details open>
+<summary>Clone Preview Image</summary>
+<br>
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642790166/kitchen-nippers/clone-preview_kkvsfx.png"></p>
+
+</details>
 
 
 -----
