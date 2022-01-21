@@ -194,11 +194,6 @@ a#news-link {
     color: rgb(167, 182, 199);
 }
 
-/*target social media images directly*/
-.fab {
-    margin: 0;
-}
-
 /*Recipe Page*/
 .about-recipe-container {
     background-color: rgba(242, 244, 248);
@@ -360,10 +355,7 @@ section h2 {
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 18rem 19rem 18rem;
     }
-}
 
-/*For screens from 1060px wide and down*/
-@media screen and (max-width: 1060px) {
     #cook-image {
         background: url('https://res.cloudinary.com/rockymiss/image/upload/v1642702129/kitchen-nippers/parent-child-pour_wjytfu.png') no-repeat center center;
     }
@@ -416,6 +408,7 @@ section h2 {
         width: 100%;
     }
 }
+
 /*For screens from 425px wide and down*/
 @media screen and (max-width: 425px) {
 
