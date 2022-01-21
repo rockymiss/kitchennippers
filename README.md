@@ -195,6 +195,10 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 - canva.com for logo and spoon and fork seperator on the recipe page.  
 - TinyPNG - to compress images
 
+
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702388/kitchen-nippers/tinypng-com-images_fwpvi2.png"></p>
+
+
 -----
 ## Resources 
 -----
@@ -279,14 +283,13 @@ The website was sent to a group of approximately 20 people, most of which were p
 This testing proved very helpful with responsivness errors as some errors did not show up using chrome dev tools.  Issues arose with iphone devices, (except the pro max), where text was hidden in the about section of the index page.  This also occured on the Redmi note 9.  This issue, as shown in the images below, was fixed by adjusting the height of the section in question.      
 
 
-**Error**
+<center>**Error**</center>
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/user-test-1-error_fsmxlz.png)
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/user-test-1-error_fsmxlz.png"></p>
 
-**Fix** 
+<center>**Fix**</center> 
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/user-test-1-fix_rvtypf.png)
-
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702153/kitchen-nippers/user-test-1-fix_rvtypf.png"></p>
 
 ### Browser Testing
 
@@ -303,21 +306,26 @@ To check responsiveness I used Google Chrome Dev Tools.  Desktop, Mobile and tab
 
 ###  Result: Chrome Desktop Lighthouse 
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765289/kitchen-nippers/lighthouse-test-1_xvyl02.png)
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642765289/kitchen-nippers/lighthouse-test-1_xvyl02.png"></p>
+
+When using Chrome lighthouse an error occured because I hadn't applied width and height to the images on the index page.  Width and height wwere applied and this corrected the best practices score. 
+
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642782074/kitchen-nippers/image-error_jcfol8.png"></p>
 
 ### Result: Chrome Mobile Lighthouse 
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765289/kitchen-nippers/lighthouse-test_oub3s8.png)
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642765289/kitchen-nippers/lighthouse-test_oub3s8.png"></p>
+
 
 ### Result: Webpagetest
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642765626/kitchen-nippers/wepage-test_el1zl1.png"></p>
 
-![alt text](https://res.cloudinary.com/rockymiss/image/upload/v1642765626/kitchen-nippers/wepage-test_el1zl1.png)
 
 ### Color Contrast Testing 
 
 I used [a11y](https://https://color.a11y.com/) to test the color contrast on the website which produced no issues. 
 
-![alt](https://res.cloudinary.com/rockymiss/image/upload/v1642768376/kitchen-nippers/color-contrast-test_ijpwic.png)
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642768376/kitchen-nippers/color-contrast-test_ijpwic.png"></p>
 
 
 ### Issues/Bugs Fixed 
@@ -328,7 +336,7 @@ The main issue was an embedded video from Instagram.  Instagram uses alot of sty
 
 After running a test using webpagetest.org an issue appeared in relation to cross-site scripting.  After further research on this I understood it to be an issue in relation to javascript and script used in the code for icons from font awesome.  While I understand the importantance of cross-site scripting I felt that for the purposes of this portfolio it was not necessary to fix and that I would be learning more about this in the next section of the course.  I did attempt to get a cdn link from fontawesome however this required a pro account, which I do not have.     
 
-![alt](https://res.cloudinary.com/rockymiss/image/upload/v1642765790/kitchen-nippers/webpage-security_bynvsi.png)
+<p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642765790/kitchen-nippers/webpage-security_bynvsi.png"></p>
 
 -----
 ## Version Control
@@ -351,13 +359,36 @@ Steps followed:
 
 ### Deployment 
 
-I used GitHub to deploy the site by:
 
-- Selecting the repository. 
-- Click on settings. 
-- Scroll down to GitHub pages and open Github pages. 
-- Select main branch and click save.
-- The page should automatically refresh and the deployed link is provided. 
+  #### Deployment: 
+        
+    To deploy the site to Github pages the following steps should be followed: 
+
+    - From your list of repositories select the repository you want to deploy.
+    - Click on settings. 
+    - Scroll down to GitHub pages and open Github pages. 
+    - Select main branch and click save.
+    - The page should automatically refresh and the deployed link is provided.
+
+  #### Fork: 
+        
+    A copy can be made of a GitHub repository can be done by forking the repository.  The copy can then be viewed and changed without affeting the original repository. 
+    
+      - From your list of repositories select the repository you want to deploy.
+      - Click on settings. 
+      - Scroll down to GitHub pages and open Github pages. 
+      - Select main branch and click save.
+      - The page should automatically refresh and the deployed link is provided.
+
+  #### Clone: 
+        
+    Cloning this project from GitHub can be done by following these steps: 
+    
+      - From your list of repositories select the repository you want to deploy.
+      - Click on settings. 
+      - Scroll down to GitHub pages and open Github pages. 
+      - Select main branch and click save.
+      - The page should automatically refresh and the deployed link is provided.
 
 
 -----
