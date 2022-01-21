@@ -195,9 +195,12 @@ For the video on YouTube the font **Bebas** was used.  This was chosen particula
 - canva.com for logo and spoon and fork seperator on the recipe page.  
 - TinyPNG - to compress images
 
-
+<details open>
+<summary>Tinypng image</summary>
+<br>
 <p align="center"><img src="https://res.cloudinary.com/rockymiss/image/upload/v1642702388/kitchen-nippers/tinypng-com-images_fwpvi2.png"></p>
 
+</details>
 
 -----
 ## Resources 
