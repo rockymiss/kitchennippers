@@ -33,8 +33,8 @@
     -  [Version Control](#version-control)
         -  [Git & GitHub](#git-and-github)
         -  [Deployment](#deployment)
-        -  [clone](#clone:)
-        -  [fork](#fork:)
+        -  [Clone](#clone:)
+        -  [Fork](#fork:)
     -  [Acknowledgements](#acknowledegments)
 
         
